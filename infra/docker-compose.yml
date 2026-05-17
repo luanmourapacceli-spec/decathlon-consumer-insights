@@ -51,3 +51,23 @@ services:
     environment:
       KAFKA_CLUSTERS_0_NAME: decathlon-local
       KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: decathlon_kafka:9092
+
+  postgres:
+    image: postgres:15
+    container_name: decathlon_postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: decathlon_insights
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
