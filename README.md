@@ -1,4 +1,4 @@
-# 🏃 Decathlon Consumer Insights
+# Decathlon Consumer Insights
 
 > A data engineering portfolio project analyzing customer satisfaction and pain points across Decathlon stores in Portugal, Spain, and Brazil.
 
@@ -10,7 +10,7 @@ This project builds an end-to-end data pipeline that collects, processes, and vi
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Reviews (PT/ES/EN)
@@ -29,7 +29,7 @@ Apache Kafka (Docker)
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 | Category    | Avg Rating | Satisfaction |
 | ----------- | ---------- | ------------ |
@@ -44,7 +44,7 @@ Apache Kafka (Docker)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer         | Technologies                 |
 | ------------- | ---------------------------- |
@@ -58,7 +58,7 @@ Apache Kafka (Docker)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -118,7 +118,7 @@ decathlon-consumer-insights/
 
 ---
 
-## 👨‍💻 About
+## About
 
 Built by **Luan Moura** as a portfolio project targeting a Data Engineering role at Decathlon Digital.
 
