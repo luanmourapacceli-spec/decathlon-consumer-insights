@@ -79,7 +79,10 @@ def save_results(df: pd.DataFrame, path: str = "data/reviews_analyzed.json"):
 
 
 if __name__ == "__main__":
-    df = load_reviews()
+    import sys
+    path = sys.argv[1] if len(sys.argv) > 1 else "data/reviews_synthetic.json"
+    df = load_reviews(path)
     df = run_analysis(df)
     print_insights(df)
-    save_results(df)
+    output = path.replace(".json", "_analyzed.json")
+    save_results(df, output)
