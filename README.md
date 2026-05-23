@@ -1,5 +1,7 @@
 # Decathlon Consumer Insights
 
+**Live Dashboard:** https://decathlon-consumer-insights.streamlit.app
+
 > A data engineering portfolio project analyzing customer satisfaction and pain points across Decathlon stores in Portugal, Spain, and Brazil.
 
 ## 📊 Project Overview
