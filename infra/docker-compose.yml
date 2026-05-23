@@ -12,6 +12,8 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
+    networks:
+      - infra_net
 
   kafka:
     image: confluentinc/cp-kafka:7.6.0
@@ -24,7 +26,7 @@ services:
     environment:
       KAFKA_BROKER_ID: 1
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://localhost:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://decathlon_kafka:9092
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
       KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
@@ -40,6 +42,8 @@ services:
       interval: 15s
       timeout: 10s
       retries: 5
+    networks:
+      - infra_net
 
   kafka-ui:
     image: provectuslabs/kafka-ui:latest
@@ -51,6 +55,8 @@ services:
     environment:
       KAFKA_CLUSTERS_0_NAME: decathlon-local
       KAFKA_CLUSTERS_0_BOOTSTRAPSERVERS: decathlon_kafka:9092
+    networks:
+      - infra_net
 
   postgres:
     image: postgres:15
@@ -68,6 +74,69 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
+    networks:
+      - infra_net
+
+  airflow-webserver:
+    image: apache/airflow:2.9.0
+    container_name: decathlon_airflow_web
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:postgres@postgres:5432/decathlon_insights
+      AIRFLOW__CORE__FERNET_KEY: "ZmDfcTF7_60GrrY167zsiPd67pEvs0aGOv2oasOM1Pg="
+      AIRFLOW__WEBSERVER__SECRET_KEY: "decathlon_secret_key_2026"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__API__AUTH_BACKENDS: "airflow.api.auth.backend.basic_auth"
+      _AIRFLOW_DB_MIGRATE: "true"
+      _AIRFLOW_WWW_USER_CREATE: "true"
+      _AIRFLOW_WWW_USER_USERNAME: admin
+      _AIRFLOW_WWW_USER_PASSWORD: admin
+      _PIP_ADDITIONAL_REQUIREMENTS: "google-play-scraper textblob langdetect kafka-python psycopg2-binary pandas"
+    volumes:
+      - ../dags:/opt/airflow/dags
+      - ../data:/opt/airflow/data
+      - ../ml:/opt/airflow/ml
+    ports:
+      - "8090:8080"
+    command: webserver
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - infra_net
+
+  airflow-scheduler:
+    image: apache/airflow:2.9.0
+    container_name: decathlon_airflow_scheduler
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://postgres:postgres@postgres:5432/decathlon_insights
+      AIRFLOW__CORE__FERNET_KEY: "ZmDfcTF7_60GrrY167zsiPd67pEvs0aGOv2oasOM1Pg="
+      AIRFLOW__WEBSERVER__SECRET_KEY: "decathlon_secret_key_2026"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      _AIRFLOW_DB_MIGRATE: "true"
+      _PIP_ADDITIONAL_REQUIREMENTS: "google-play-scraper textblob langdetect kafka-python psycopg2-binary pandas"
+    volumes:
+      - ../dags:/opt/airflow/dags
+      - ../data:/opt/airflow/data
+      - ../ml:/opt/airflow/ml
+    command: scheduler
+    networks:
+      - infra_net
 
 volumes:
   postgres_data:
+
+networks:
+  infra_net:
+    driver: bridge
