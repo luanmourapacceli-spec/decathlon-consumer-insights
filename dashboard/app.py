@@ -150,10 +150,10 @@ html, body, [class*="css"] {{
 @st.cache_data(ttl=300)
 def load_data() -> pd.DataFrame:
     paths = [
-        "data/reviews_real_bert.json",
-        "data/reviews_real_analyzed.json",
-        "data/reviews_analyzed.json",
-    ]
+    "data/reviews_real_analyzed.json",
+    "data/reviews_real_bert.json",
+    "data/reviews_analyzed.json",
+]
     for path in paths:
         if os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
