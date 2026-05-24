@@ -30,10 +30,22 @@ def analyze_sentiment(text: str) -> dict:
 def run_analysis(df: pd.DataFrame) -> pd.DataFrame:
     print(f"📊 Analisando {len(df)} reviews...")
 
-    # Aplica análise de sentimento em cada review
+    # Análise de sentimento
     sentiments = df["text"].apply(analyze_sentiment)
     df["sentiment_score"] = sentiments.apply(lambda x: x["sentiment_score"])
     df["sentiment_label"] = sentiments.apply(lambda x: x["sentiment_label"])
+
+    # Classificação de esporte por keywords
+    try:
+        import sys
+        sys.path.append(".")
+        from ml.sport_classifier import classify_with_keywords
+        df["sport_category"] = df["text"].apply(
+            lambda t: classify_with_keywords(t) or "other"
+        )
+        print("✅ Categorias de esporte classificadas")
+    except Exception as e:
+        print(f"⚠️ Classificador de esporte falhou: {e}")
 
     return df
 

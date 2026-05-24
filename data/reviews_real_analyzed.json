@@ -39,7 +39,7 @@
     "text":"Muito ruim !!!! Tentei fazer compras online 4 vezes, o app informa que meu pedido foi aceito, fornece um número, mas o sistema não processa o pagamento e nada aparece em \"minhas compras\" O atendimento em ajuda é feito por um robô no Whatsapp que após eu passar o número do pedido ele informa que ele será entregue em \"X\" dias, o que não acontece. Pelo app tentei remover minha conta, mas depois de dias aguardando ela ainda continua lá. Tentei por e-mail e nada acontece.",
     "language":"pt",
     "date":"2026-05-22T14:45:22",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302639",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -54,7 +54,7 @@
     "text":"pior app, só dá problema",
     "language":"pt",
     "date":"2026-05-20T14:04:15",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302641",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -69,7 +69,7 @@
     "text":"O APP faz o que promete, não é dos melhores no quesito de transparência, quanto ao valor a ser pago na finalização da compra, deveria ter um resumo com o valor do produto, desco tos, cash back e valor final a ser pago em função do meio de pagamento, fora isto o resto é ok. O usuário tem que prestar muita atenção para não ser induzido a erro na finalização do pagamento (quanto ao valor final a ser pago).",
     "language":"pt",
     "date":"2026-05-20T13:41:42",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302643",
     "sentiment_score":0.125,
     "sentiment_label":"positive"
@@ -84,7 +84,7 @@
     "text":"Sistema de cashback não funciona",
     "language":"pt",
     "date":"2026-05-20T01:07:29",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302645",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -114,7 +114,7 @@
     "text":"o Aplicativo literalmente enche o saco com propaganda o tempo todo e não oferece um meio de desabilitar. Ao menos que desabilite tudo do Aplicativo até as notificações sobre seu pedido... vergonhoso.",
     "language":"pt",
     "date":"2026-05-19T15:51:37",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302649",
     "sentiment_score":-0.1,
     "sentiment_label":"neutral"
@@ -129,7 +129,7 @@
     "text":"Não foi pior pq completei minha compra pelo site. O app tinha mais opções de entrega, incluindo uma que era 50% mais barata e só 1 dia útil a mais, como queria muito o produto e é da marca própria completei o pedido pela web, mas a experiência do usuário não poderia ser pior, o que contrasta bastante que ao fechar o pedido na web ela te indica o app para melhor experiência. Até o caminho que eles enviam na resposta pra supostamente dar mais detalhes do ocorrido quebra.",
     "language":"pt",
     "date":"2026-05-19T15:42:19",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302651",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -144,7 +144,7 @@
     "text":"aplicativo ruim e BEACH Tênis fica junto do tennis.... SEPAREM LOGO",
     "language":"pt",
     "date":"2026-05-19T02:07:17",
-    "sport_category":"other",
+    "sport_category":"running",
     "collected_at":"2026-05-23T23:31:31.302654",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -159,7 +159,7 @@
     "text":"aplicativo nao deixa comprar... fica resetando o endereço mesmo ja confirmado, bug pessimo que me fez desistir de uma compra de 2000 reais.",
     "language":"pt",
     "date":"2026-05-18T22:40:32",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302656",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -174,7 +174,7 @@
     "text":"Não consigo finalizar a minha compra, da erro tanto no Pix quando no cartão. e não tem um contato de suporte.",
     "language":"pt",
     "date":"2026-05-18T15:51:22",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302657",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -204,7 +204,7 @@
     "text":"primeira compra , aguarda do para mais...",
     "language":"pt",
     "date":"2026-05-17T15:05:39",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302661",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -234,7 +234,7 @@
     "text":"A minha compra nunca chegou, ainda tô tentando resolver, péssima experiência.",
     "language":"pt",
     "date":"2026-05-15T12:03:46",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302665",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -264,7 +264,7 @@
     "text":"Cuidado na compras de calçados, eles removem a caixa original e enviam em um saco, no app essa informação não aparece. Somente quando acessamos pelo Navegador é possível ver essa informação.",
     "language":"pt",
     "date":"2026-05-14T13:19:23",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302668",
     "sentiment_score":0.375,
     "sentiment_label":"positive"
@@ -279,7 +279,7 @@
     "text":"app prático, mas em alguns momentos ainda buga.",
     "language":"pt",
     "date":"2026-05-14T01:26:49",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302670",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -294,7 +294,7 @@
     "text":"o app funciona melhor que o telefone e o atendimento fisico",
     "language":"pt",
     "date":"2026-05-13T19:28:00",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302673",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -339,7 +339,7 @@
     "text":"Demorei 3 dias para conseguir concluir a compra. O cashback so poderia ser utilizado se a compra fosse feita pelo app e o QrCode so poderia ser gerado apos o pagamento(ironico)... consegui pagar, mas o cashbak ficou para tras.",
     "language":"pt",
     "date":"2026-05-12T16:41:45",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302679",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -354,7 +354,7 @@
     "text":"Pior experiência de compra digital que já tive em toda vida! Aplicativo lento, com bug e não permite finalizar compra. Fazer a compra pelo computador é impossível, pois não permite avançar para pagamento (Tentativa em 3 dispositivos diferentes). Pra fechar com chave de ouro atendimento que não resolve nada, fica mandando limpar cache e reinstalar o App.",
     "language":"pt",
     "date":"2026-05-12T14:25:52",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302680",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -369,7 +369,7 @@
     "text":"Excelente aplicativo. Rápido. Fácil. Intuitivo.",
     "language":"pt",
     "date":"2026-05-12T14:24:11",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302682",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -414,7 +414,7 @@
     "text":"app horrível. O cashback sumiu, não tem suporte.",
     "language":"pt",
     "date":"2026-05-11T19:30:09",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302688",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -429,7 +429,7 @@
     "text":"aplicativo ruim, site ruim e empresa ruim. não queira depender do atendimento deles",
     "language":"pt",
     "date":"2026-05-11T12:56:47",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302690",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -444,7 +444,7 @@
     "text":"Péssimo, não consigo finalizar a compra, no Pix ou no cartão. isto é um absurdo uma loja mundial, a pessoa não consegue finalizar o pedido. Mesmo no site estou tendo o mesmo problema. Tenho que ir na loja física 🤔🤔😤😤",
     "language":"pt",
     "date":"2026-05-10T15:31:05",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302693",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -459,7 +459,7 @@
     "text":"Esse app é péssimo. Estou há um tempão tentando pagar pelo pix para ganhar o desconto e não estou conseguindo. Só dá erro.",
     "language":"pt",
     "date":"2026-05-10T13:11:12",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302694",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -489,7 +489,7 @@
     "text":"lixo de transportadora jadlog que vocês usam entregaram pra não sei quem o meu pedido e o suporte desta empresa não existe.",
     "language":"pt",
     "date":"2026-05-10T00:35:45",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302698",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -519,7 +519,7 @@
     "text":"Olha, de verdade tá difícil, os produtos são fora de sério, mas que enrolação pra fazer uma devolução, isso que entrei pra fazer troca ainda, já tão fazendo quase dez dias que receberam a devolução e ainda não liberaram o dinheiro pra eu fazer a nova compra. o Whatsapp não atende, o e-mail não responde, to P da vida com isso.",
     "language":"pt",
     "date":"2026-05-06T19:53:12",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302702",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -534,7 +534,7 @@
     "text":"não é possível fazer compras pelo app. só dá erro.",
     "language":"pt",
     "date":"2026-05-06T18:37:34",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302704",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -564,7 +564,7 @@
     "text":"Aplicativo muito bom para pesquisas sobre produtos esportivos, não botava fé no app mas me surpreendeu, Parabéns Decathlon😊😊👏",
     "language":"pt",
     "date":"2026-05-04T21:59:28",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302707",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -624,7 +624,7 @@
     "text":"muito bom, faltando a opção de:(obs) na entrega pra descrever: pode deixar no vizinho, pode deixar na janela ou jogar dentro da garagem e tirar uma foto!",
     "language":"pt",
     "date":"2026-04-24T12:24:41",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302715",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -639,7 +639,7 @@
     "text":"e muito bom tá ok mas fi ver um tênis muitos só tem um par rou dois e não agrupado por marca e nas vitaminas não tá muito moderno só marca que é meior simples; olhando bem tem que melhorar um pouco muitissimo obrigado",
     "language":"pt",
     "date":"2026-04-22T18:51:24",
-    "sport_category":"other",
+    "sport_category":"running",
     "collected_at":"2026-05-23T23:31:31.302717",
     "sentiment_score":0.5,
     "sentiment_label":"positive"
@@ -654,7 +654,7 @@
     "text":"Já faz uma semana que baixei o app, não consegui ver nenhum produto, todos sem imagens, vc acessa a categoria (por exemplo Masculino-Tenis) e aparecem coisas totalmente diferentes, tipo Camisola Feminina, e tudo sem imagem, muito ruim, quem é que compra assim? o Site tbm a mesma coisa, procura alguma coisa pelas categorias utilizando os filtros de pesquisa e aparece coisas aleatórias nada a ver, pesquisei tênis casual masculino e só aparece sandália feminina, bolsa, acessórios..",
     "language":"pt",
     "date":"2026-04-22T14:03:35",
-    "sport_category":"other",
+    "sport_category":"running",
     "collected_at":"2026-05-23T23:31:31.302718",
     "sentiment_score":-0.5,
     "sentiment_label":"negative"
@@ -669,7 +669,7 @@
     "text":"minha experiência foi muito boa na hora da compra mas não tinha opções mais acessíveis de pagamento exemplo: pix. Mas a loja é boa para pesquisas mas tem poucos conteúdos de certos assuntos. E na hora de receber meu pedido o pedido está atrasado para um caramba e precisei cancelar espero que a loja melhore pois vejo muito potencial desperdiçado em um app com sistema de entrega tão ruim",
     "language":"pt",
     "date":"2026-04-21T23:37:25",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302720",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -684,7 +684,7 @@
     "text":"Extravio na transportadora Loggi na primeira compra que fiz pelo app. Deplorável!",
     "language":"pt",
     "date":"2026-04-21T13:40:37",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302722",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -699,7 +699,7 @@
     "text":"Gosto de comprar, produtos de ótima qualidade e rápida entrega, muito bom!",
     "language":"pt",
     "date":"2026-04-21T03:55:13",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302724",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -729,7 +729,7 @@
     "text":"nao consigo fazer compra. o app tenta fazer verificação de robo, mas nao consigo clicar em nada. horrível e nao recomendo. melhorem",
     "language":"pt",
     "date":"2026-04-20T01:11:04",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302728",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -744,7 +744,7 @@
     "text":"O app não é fluido e existem produtos não disponíveis para o CEP.",
     "language":"pt",
     "date":"2026-04-19T23:39:31",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302729",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -774,7 +774,7 @@
     "text":"adoro a Decathon mas o aplicativo é meio bugado. Não tem por exemplo a opção para pagar no pix, apesar de ter produtos com desconto no pix",
     "language":"pt",
     "date":"2026-04-19T18:23:52",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302733",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -804,7 +804,7 @@
     "text":"Mesmo estando no nível Premium e comprando acima do valor estipulado para frete grátis, continuo pagando frete e não ganhei o desconto de aniversário pq o sistema não deixa registrar a data. Os produtos são de qualidade, os descontos não.",
     "language":"pt",
     "date":"2026-04-19T15:20:44",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302737",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -819,7 +819,7 @@
     "text":"não consigo finalizar a compra, quando seleciono para finalizar, vai para o \"não sou um robo\" e não da pra selecionar ...",
     "language":"pt",
     "date":"2026-04-19T14:18:27",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302739",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -834,7 +834,7 @@
     "text":"nao consigo finalizar minha compra, app muito ruin instável",
     "language":"pt",
     "date":"2026-04-19T03:34:00",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302741",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -849,7 +849,7 @@
     "text":"O captcha está travando quase impedindo de efetivar a compra.",
     "language":"pt",
     "date":"2026-04-19T02:59:34",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302742",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -864,7 +864,7 @@
     "text":"o App nao abriu as fotos e demorei 2 dias pra conseguir finalizar a compra. quase desisti.",
     "language":"pt",
     "date":"2026-04-18T20:13:42",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302744",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -879,7 +879,7 @@
     "text":"aplicativo dá sempre erro ao tentar finalizar a compra",
     "language":"pt",
     "date":"2026-04-18T18:42:35",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302746",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -894,7 +894,7 @@
     "text":"app trava demais, reinicia os processos toda hora",
     "language":"pt",
     "date":"2026-04-18T16:49:23",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302748",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -924,7 +924,7 @@
     "text":"as vezes trava no pagamento Pix, mas nada é perfeito",
     "language":"pt",
     "date":"2026-04-17T20:25:04",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302751",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -939,7 +939,7 @@
     "text":"o pagamento é muito ruim, fica dando erro na página de conferência que não somos robô. A gente não consegue clicar.",
     "language":"pt",
     "date":"2026-04-17T16:15:39",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302753",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -954,7 +954,7 @@
     "text":"simples e fácil de comprar.",
     "language":"pt",
     "date":"2026-04-17T01:12:49",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302755",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -969,7 +969,7 @@
     "text":"compra fácil e rápida",
     "language":"pt",
     "date":"2026-04-16T21:33:04",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302757",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -984,7 +984,7 @@
     "text":"Desinstalado, na hora de fechar a compra o app abre um captcha totalmente sem sentido e trava o app absolutamente todas as vezes, alem de ter uma das piores buscas que já vi. Já que é impossível comprar, vou tentar na netsho es.",
     "language":"pt",
     "date":"2026-04-16T19:28:08",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302759",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1029,7 +1029,7 @@
     "text":"não deixou pagar com o cartao... recaptcha não funcionou. Mesmo após reiniciar o celular. E tentar pelo app e pelo site",
     "language":"pt",
     "date":"2026-04-15T15:56:21",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302764",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1044,7 +1044,7 @@
     "text":"Aplicativo está péssimo, essa versão bagunçou TUDO! Simplesmente, não aplica mais os benefícios para quem é associado ao Clube Decathlon: não computa os 5% de Cashback - só uma ínfima parte do q é devido aparece como \"saldo de Cashback\"; e nem o frete grátis q o associado tem direito seg. as regras do tal Clube, descritas no próprio aplicativo! Aliás, o valor do frete, q não deveria ser cobrado, muda o tempo todo! E o site também está todo errado: hoje é inviável comprar online pela Decathlon!",
     "language":"pt",
     "date":"2026-04-15T12:57:50",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302766",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1074,7 +1074,7 @@
     "text":"Sempre que clico pra ver as fotos, ele trava e tenho que reiniciar o app.",
     "language":"pt",
     "date":"2026-04-14T10:36:04",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302771",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1089,7 +1089,7 @@
     "text":"falta o sistema ser intuitivo so consegue o desconto de primeira compra por incidente minha ou seja falta transparência.",
     "language":"pt",
     "date":"2026-04-14T01:44:34",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302774",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1179,7 +1179,7 @@
     "text":"site as vezes trava. app também.",
     "language":"pt",
     "date":"2026-04-11T11:43:36",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302792",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1194,7 +1194,7 @@
     "text":"vou da 4 estrela pq tentei algumas vezes fazer a compra nao foi simples",
     "language":"pt",
     "date":"2026-04-11T00:25:43",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302793",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1209,7 +1209,7 @@
     "text":"Até agora funciona bem. Aguardando a entrega da compra..",
     "language":"pt",
     "date":"2026-04-10T23:53:47",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302795",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1239,7 +1239,7 @@
     "text":"A primeira vez que comprei um tênis na Decathlon, tive problema com o produto, mas fui super bem atendido e resolveram o meu problema. Recomendo muito essa loja e comprarei outras vezes.",
     "language":"pt",
     "date":"2026-04-10T23:00:09",
-    "sport_category":"other",
+    "sport_category":"running",
     "collected_at":"2026-05-23T23:31:31.302799",
     "sentiment_score":0.333,
     "sentiment_label":"positive"
@@ -1269,7 +1269,7 @@
     "text":"É urgente melhorar os filtros do aplicativo. Impossível achar o que se quer a partir dos filtros.",
     "language":"pt",
     "date":"2026-04-09T04:06:36",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:31.302802",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1284,7 +1284,7 @@
     "text":"Imposible iniciar sesión a través de la app, para ver tu cuenta tienes que hacerlo a través de la web. No tiene ningún sentido tener una app si tienes que irte a la web. La app más inútil que he podido instalar en mi teléfono.",
     "language":"es",
     "date":"2026-05-22T22:29:49",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517655",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1299,7 +1299,7 @@
     "text":"Última actualización de la App da problemas. No puedo acceder",
     "language":"es",
     "date":"2026-05-21T09:13:12",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517660",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1314,7 +1314,7 @@
     "text":"Me gusta la app muy intuitiva y fácil de manejar.",
     "language":"es",
     "date":"2026-05-21T07:53:09",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517662",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1359,7 +1359,7 @@
     "text":"llevo meses poniendo reseñas de los artículos comprados y no dais los puntos que decís. Editado: la página a la que me mandáis me sale error 404",
     "language":"es",
     "date":"2026-05-19T15:25:34",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517668",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1389,7 +1389,7 @@
     "text":"es muy buena fácil de usar y brinda mucha información de mis compras",
     "language":"es",
     "date":"2026-05-18T23:44:00",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517672",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1434,7 +1434,7 @@
     "text":"La app mejora la experiencia de usuario y pone a tu alcance las ventajas de ser miembro.",
     "language":"es",
     "date":"2026-05-17T10:08:47",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517679",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1449,7 +1449,7 @@
     "text":"Excelente aplicación, variedad, solo una cosa importante porfavor actualicen en cuestión de productos en FOTOS, por ejemplo Los tacos todas las Versiones que pongan foto cuáles traen su accesorio y cuáles no, en qué gama si y en cuál no, ejemplo fui ala tienda Física y vi los (Tacos CLR JAGUAR Boots y trae Mochila de cordón o Gymsack), pero en la app cuando se visualiza el producto no dice que lo incluye, ayudará mucho, solo eso pido para saber que productos elegir y comprar seguro✨🙏🏼",
     "language":"es",
     "date":"2026-05-17T01:40:47",
-    "sport_category":"other",
+    "sport_category":"fitness",
     "collected_at":"2026-05-23T23:31:35.517681",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1464,7 +1464,7 @@
     "text":"MUY BUENA APP",
     "language":"es",
     "date":"2026-05-14T22:07:18",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517683",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1479,7 +1479,7 @@
     "text":"Creeo que Decathlon en cuanto a la función de ofrecer puntos por hacer tanto tiempo de deporte o ejercicio debería de poder integrar nuevos descuentos y bonos interesantes como premios para cosas que a la gente le sería más motivador y útil sudar el esfuerzo y la pasión por hacer deporte, por ejemplo podrían ofrecer descuentos notables y días gratuitos de prueba para acudir a gimnasios de tu ciudad, descuentos en reparaciones y arreglos para bicicletas, patinetes eléctricos, y otras cosas.",
     "language":"es",
     "date":"2026-05-14T18:21:13",
-    "sport_category":"other",
+    "sport_category":"cycling",
     "collected_at":"2026-05-23T23:31:35.517684",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1524,7 +1524,7 @@
     "text":"En la app no se visualiza opciones de pago para agregar tarjeta de regalo.",
     "language":"es",
     "date":"2026-05-13T21:19:54",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517690",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1554,7 +1554,7 @@
     "text":"muy buena app. es útil saber que tienen en la tienda antes de ir",
     "language":"es",
     "date":"2026-05-10T21:34:20",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517693",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1599,7 +1599,7 @@
     "text":"la app es bu3na. tienen programas para acumular puntos y es excelente.",
     "language":"es",
     "date":"2026-05-09T20:19:36",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517699",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1659,7 +1659,7 @@
     "text":"No me deja publicar opiniones de lo comprado.",
     "language":"es",
     "date":"2026-05-06T20:20:36",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517707",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1689,7 +1689,7 @@
     "text":"Hice un pedido y tardaron más de lo debido para enviarlo. Aparte de eso, lo entregan a una empresa de transporte que ni ellos mismos se conocen. \"Paack\" Estaba en casa, y JAMÁS!, siquiera tocaron el timbre para darme mi pedido. A lo que llamo a Decathlon y nadie me da razón de nada sólo que mi pedido está siendo devuelto porque \"nadie estaba en casa\" y por \"dirección equivocada\". Ni siquiera me llamaron. No sabían ni quién tenía el pedido. No sé por qué trabajan con empresas irresponsables.",
     "language":"es",
     "date":"2026-05-05T13:14:06",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517713",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1734,7 +1734,7 @@
     "text":"Muy buena app. Es intuitiva, el catálogo está bien organizado y el proceso de compra es rápido. ¡Muy recomendable!",
     "language":"es",
     "date":"2026-04-28T08:27:53",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517719",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1779,7 +1779,7 @@
     "text":"Me encanta la aplicación, la recomiendo 100x100. Es muy sencilla y fácil para buscar y comprar artículos.",
     "language":"es",
     "date":"2026-04-27T17:48:08",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517724",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1854,7 +1854,7 @@
     "text":"es un timo la gestión de los puntos, poco tiempo para gastarlo, nunca puedes gastarlos porque te exigen compras de 110€.... caducan muy rapido",
     "language":"es",
     "date":"2026-04-26T16:57:50",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517734",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1884,7 +1884,7 @@
     "text":"Las recientes condiciones de fidelidad de Decathlon suponen un claro retroceso para el consumidor. El programa ha perdido su propósito: los puntos ya no ofrecen un beneficio real. Condicionar el canje de 3€ a un gasto extra de 30€, o de 10€ a compras de 100€, es una medida desproporcionada. Constituye una doble penalización que enmascara un simple 10% de descuento bajo exigencias de consumo forzado, transformando la recompensa al cliente en una estrategia de venta inaceptable.",
     "language":"es",
     "date":"2026-04-25T21:59:57",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517737",
     "sentiment_score":0.067,
     "sentiment_label":"neutral"
@@ -1929,7 +1929,7 @@
     "text":"Muy útil para ver mi historial de compras.",
     "language":"es",
     "date":"2026-04-24T22:56:24",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517743",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1944,7 +1944,7 @@
     "text":"me gusta comprar por qué ay Buenos precios",
     "language":"es",
     "date":"2026-04-24T19:46:26",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517745",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -1974,7 +1974,7 @@
     "text":"El trato muy bien , y bien aconsejado, sali de la tienda con una bici eléctrica, todo genial pero si cuando hay compras altas , un detalle tampoco vendría de menos ..",
     "language":"es",
     "date":"2026-04-23T13:47:21",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517748",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2004,7 +2004,7 @@
     "text":"Pésima experiencia. Venden productos de terceros sabiendo que están incompletos; en mi caso, un artículo que necesitaba tornillería específica y sabían de antemano que no tenían existencias de esos tornillos. Su única respuesta es que 'no es su marca' y ofrecer la devolución, pero el problema y la pérdida de tiempo te los comes tú. Se lavan las manos y te dejan colgado con un producto inservible. Además, la app es muy poco intuitiva.\"",
     "language":"es",
     "date":"2026-04-22T11:13:18",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517752",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2034,7 +2034,7 @@
     "text":"Mi experiencia ha sido muy satisfactoria , prácticamente como siempre. Tuve un problema con un reloj Coros y Laura de la tienda situada en la Maquinista y en el turno de la mañana, me atendió super bien, al final decidimos cambiar el reloj y no hubo problema ninguno. Felicito a Laura por su entrega y dedicación al intentar solucionar un problema que no tenía solución. Gracias Laura.",
     "language":"es",
     "date":"2026-04-21T09:23:57",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517756",
     "sentiment_score":0.167,
     "sentiment_label":"positive"
@@ -2094,7 +2094,7 @@
     "text":"no funciona, no me deja iniciar sesión, error 404, no puedo usar mis puntos que fiasco ! denle soporte a su app",
     "language":"es",
     "date":"2026-04-18T04:41:40",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517763",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2124,7 +2124,7 @@
     "text":"la aplicación falla demasiado, quiero poder comprar unas cosas y no me deja avanzar más allá del carrito, después intento modificar la dirección de envío y me marca error, tratas de pedir asistencia y solo mandas un correo que nunca contestan.",
     "language":"es",
     "date":"2026-04-17T16:38:39",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517766",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2184,7 +2184,7 @@
     "text":"No se puede buscar un articulo en compras realizadas, hay que bajar hasta la fecha y no es cómodo. Para hacer una devolución no es fàcil, es decir nada intuitivo. En los pedidos pone que un articulo ha sigo enviado el 11 de mayo y hoy es 5 de mayo... a ver quién lo entiende. Nada mejor usar la versión web.",
     "language":"es",
     "date":"2026-04-15T18:10:47",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517773",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2199,7 +2199,7 @@
     "text":"Lamentable experiencia con esta aplicación, guardas todos los productos que te gustan para más tarde y al borrar uno desde la cesta 🧺 de la compra, se borran todos!!. Seguramente porque no cuidarán económicamente a sus informáticos. Pues cosas que iba a comprar y ya no puedo... Además tb te añaden productos a tus me gusta que tú no has pedido, invadiendo tus gustos personales para confundirte.",
     "language":"es",
     "date":"2026-04-15T02:00:50",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517775",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2259,7 +2259,7 @@
     "text":"la logistica malisima pague por un envio de un dia tendria que haber llegado el sabado y hoy lunes sin ningun motivo despues de estar en reparto de repente estando en casa llega un correo donde directamente cambian la fecha de entrega para el martes nadie se puso en contacto conmigo lo cambiaron sin mas si te envian algo que hayas comprado online y es la empresa paack hechate a temblar y decathlon no da explicaciones de nada solo repite lo mismo que veo en la pagina no les interesa los clientes",
     "language":"es",
     "date":"2026-04-13T15:28:53",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517782",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2274,7 +2274,7 @@
     "text":"resueltos los problemas de acumular puntos y viendo que es fácil comprar y buscar artículos, actualizo la valoracion",
     "language":"es",
     "date":"2026-04-12T18:47:59",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517784",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2289,7 +2289,7 @@
     "text":"No funciona. No he podido concretar una compra. Cada vez que clickeo \"confirmar\" el carrito me enlaza a la pág de entrada de la versión web y no sé cómo proseguir ya que en la web mi carrito aparece vacío. Cuando intento acceder al carrito en la web me arroja \"error 500\" y eso que hoy estuve en la tienda física y ahí mismo me instaron a usar la app, yo sólo la usaba como para mirar el catálogo de productos y debí dejarla solo para eso y comprar en la tienda. DESILUSIONADA",
     "language":"es",
     "date":"2026-04-12T03:51:47",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517786",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2394,7 +2394,7 @@
     "text":"Las reseñas de esta app están manipuladas. Todas de 4.5 para arriba. Cuando pones una reseña negativa, desaparece o no te dejan ponerla.",
     "language":"es",
     "date":"2026-04-07T21:54:58",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517813",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2409,7 +2409,7 @@
     "text":"No se puede comprar en línea, o sea solo si deseas recoger en alguna tienda física de nada sirve si deseas que llegue a casa.",
     "language":"es",
     "date":"2026-04-07T18:01:21",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:35.517815",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2499,7 +2499,7 @@
     "text":"No recomendable, venden con proveedores y luego solo generan problemas a los cuales no dan solución, unas zapatillas recién compradas sin cartones ni nada, de haber sido usadas lamentable. Primera y ultima vez que compro",
     "language":"es",
     "date":"2026-03-23T13:12:25",
-    "sport_category":"other",
+    "sport_category":"running",
     "collected_at":"2026-05-23T23:31:35.517827",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2544,7 +2544,7 @@
     "text":"Após fazer download e tentar fazer \"login ou criar conta\", aparece uma página de erro. Uma app que não serve para nada",
     "language":"pt",
     "date":"2026-05-16T10:12:06",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291459",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2604,7 +2604,7 @@
     "text":"já foi melhor. deixou de fazer a conexão ao Strava. já reiniciei a APP, o telemóvel, mas a falha continua recorrente. o que é pena porque vai contra o que anunciam do programa de pontos",
     "language":"pt",
     "date":"2026-05-11T19:45:26",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291467",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2679,7 +2679,7 @@
     "text":"Uma APP muito completa e intuitiva. Em destaque a possibilidade de adquirir artigos online ou na loja mais próxima. Programa de fidelidade e carteira para gestão de pontos e cartões de oferta.",
     "language":"pt",
     "date":"2026-05-01T18:20:09",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291477",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2769,7 +2769,7 @@
     "text":"Não consigo fazer log in na app e portanto não consigo usar cupões, pontos, etc... Dá um erro qualquer interno do servidor Por favor componham",
     "language":"pt",
     "date":"2026-04-24T11:48:46",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291488",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2799,7 +2799,7 @@
     "text":"o melhor app de comprar para campismo",
     "language":"pt",
     "date":"2026-04-16T09:07:51",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291491",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2844,7 +2844,7 @@
     "text":"app não funciona em todos os dispositivos.",
     "language":"pt",
     "date":"2026-04-04T14:33:27",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291497",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2874,7 +2874,7 @@
     "text":"Muito bom para fazer compras quando estamos longe etc",
     "language":"pt",
     "date":"2026-03-31T18:50:33",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291500",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2889,7 +2889,7 @@
     "text":"Tudo o que tenho comprado, tem vindo c\/a previsão indicada, método de pagamento muito fácil, mesmo com os vouchers. Super recomendo",
     "language":"pt",
     "date":"2026-03-18T14:26:13",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291502",
     "sentiment_score":0.333,
     "sentiment_label":"positive"
@@ -2919,7 +2919,7 @@
     "text":"App bem elaborado.",
     "language":"pt",
     "date":"2026-03-04T14:33:12",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291506",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -2934,7 +2934,7 @@
     "text":"Voltaram a ter o método de pagamento via multibanco. Perfeito!!",
     "language":"pt",
     "date":"2026-02-27T12:57:42",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291508",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3039,7 +3039,7 @@
     "text":"Não se está a conseguir colocar o montante do vale. A utilização dos vales não é funcional. No processo de compra, um utilizador com log in feito tem que copiar antecipadamente os dados do cartão e o seu pin para poder utilizar um vale.",
     "language":"pt",
     "date":"2026-02-16T00:57:28",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291521",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3114,7 +3114,7 @@
     "text":"A app é muito boa para encontrar bons produtos, porém para saber mais dos \"passos\" das encomendas para ver se está \"ali ou aqui\" é uma parte que deveria ser mostrada.",
     "language":"pt",
     "date":"2026-02-08T09:31:32",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291530",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3144,7 +3144,7 @@
     "text":"a app não funciona. não abre.",
     "language":"pt",
     "date":"2026-02-04T17:53:12",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291533",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3159,7 +3159,7 @@
     "text":"App está fechar ao tentar pesquisar, selecionar um produto",
     "language":"pt",
     "date":"2026-02-04T16:19:02",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291535",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3189,7 +3189,7 @@
     "text":"muito boa para compras e sistema de stock",
     "language":"pt",
     "date":"2026-01-30T18:22:39",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291539",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3264,7 +3264,7 @@
     "text":"a APP que mais problemas dá no meu telemóvel. não faz login quando preciso dela e obriga-me a reinstalar, sincroniza com o Strava de vez em vez...",
     "language":"pt",
     "date":"2026-01-18T18:00:52",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291548",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3354,7 +3354,7 @@
     "text":"fantástica experiência de compra",
     "language":"pt",
     "date":"2025-12-22T12:01:33",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291559",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3369,7 +3369,7 @@
     "text":"tenho itens no carrinho faço o processo de pagamento e quando chega a mensagem com o código não funciona.",
     "language":"pt",
     "date":"2025-12-20T13:42:20",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291561",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3384,7 +3384,7 @@
     "text":"Quero a APP como estava! So quero ver artigos Decathlon da loja online ou física, não tenho nada que levar com artigos de marketplace! deixou de ser fiável ou útil para mim por esse motivo e vou desinstalar.",
     "language":"pt",
     "date":"2025-12-19T20:16:32",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291563",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3399,7 +3399,7 @@
     "text":"App bem organizada.",
     "language":"pt",
     "date":"2025-12-10T17:44:37",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291565",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3414,7 +3414,7 @@
     "text":"tive sempre bom atendimento !!!!!",
     "language":"pt",
     "date":"2025-12-08T20:05:16",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291567",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3444,7 +3444,7 @@
     "text":"e que tal conectar a app com o Health Connect \/ Google Fit?",
     "language":"pt",
     "date":"2025-12-07T18:15:19",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291570",
     "sentiment_score":0.4,
     "sentiment_label":"positive"
@@ -3474,7 +3474,7 @@
     "text":"apareceram notificações para fazer pagamentos ao abrir o calendário de Natal",
     "language":"pt",
     "date":"2025-12-05T13:03:06",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291576",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3489,7 +3489,7 @@
     "text":"excelente na entrega e envio.. aconselho a fazer compras pela app.. chegou tudo conforme..",
     "language":"pt",
     "date":"2025-12-04T16:49:20",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291577",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3519,7 +3519,7 @@
     "text":"A app não permite seguir a encomenda online. Alguns produtos iguais em que apenas diferem na cor, encontram-se com descrições diferentes.",
     "language":"pt",
     "date":"2025-12-03T12:12:38",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291581",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3594,7 +3594,7 @@
     "text":"Boa app, prática e precisa",
     "language":"pt",
     "date":"2025-11-29T10:16:08",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291590",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3609,7 +3609,7 @@
     "text":"A APP em si não está mau, agora as categorias dos produtos estarem todas misturadas que uns produtos estão numa categoria que não pertence é que é irritante para encontrar algo. Metem pessoas competentes com minimamente bom senso e que percebem que coisas pertencem a qual categoria que isto assim há anos já mete nojo.",
     "language":"pt",
     "date":"2025-11-25T10:50:25",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291592",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3624,7 +3624,7 @@
     "text":"I just have a thing to talk about. the over all app is great, but there are very few things that bug me. the other day I ordered a few items, and I really wanted to go to the store as if they didn't fit I could return them in the moment. I was really lost as in the app, I could only go for a click and collect or home delivery. only when I logged in the website I got the warning that some items are not available to be shipped to stores, what is really weird...",
     "language":"pt",
     "date":"2025-11-22T12:11:03",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291594",
     "sentiment_score":0.029,
     "sentiment_label":"neutral"
@@ -3639,7 +3639,7 @@
     "text":"(Tudo resolvido , excelentes profissionais! ) Está com problema de login..ja limpei dados e sem sucesso. abre um navegador interno com uma mensagem \"login\" tudo preto (Resolvido após reinstalação da App). Agora tem um \"problema \" nao da para pagar com googlepay. Mensagem \"programador tem de incluir webpay na app\" algo assim do género",
     "language":"pt",
     "date":"2025-11-21T22:08:25",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:38.291596",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3714,7 +3714,7 @@
     "text":"application facile et rapide",
     "language":"fr",
     "date":"2026-05-22T14:11:40",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365219",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3744,7 +3744,7 @@
     "text":"Toujours impossible et pourtant j'ai réinstallé l'app",
     "language":"fr",
     "date":"2026-05-20T18:23:56",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365227",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -3789,7 +3789,7 @@
     "text":"Bonne application, dommage qu'on ne puisse pas filtrer les articles disponibles dans son magasin favori. Le choix de l'indicatif du téléphone ne fonctionne pas pour une commande.",
     "language":"fr",
     "date":"2026-05-18T08:29:25",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365238",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3804,7 +3804,7 @@
     "text":"belle application merci decathlon",
     "language":"fr",
     "date":"2026-05-18T02:51:12",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365242",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3834,7 +3834,7 @@
     "text":"une très bonne application",
     "language":"fr",
     "date":"2026-05-17T09:36:02",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365249",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3954,7 +3954,7 @@
     "text":"pb sur l appli dégouté car ca fait 1 semaine que l appli ne fonctionne pas : elle me renvoie sur le site internet et me demande de me connecter. Que se passe t il ? cdlt julie",
     "language":"fr",
     "date":"2026-05-12T13:32:26",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365277",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3969,7 +3969,7 @@
     "text":"j'ai été déconnectée sur l'appli du jour au lendemain et depuis j'essaie de me redonner sans succès ! erreur 404 not found",
     "language":"fr",
     "date":"2026-05-12T11:38:04",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365280",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -3999,7 +3999,7 @@
     "text":"très bien application",
     "language":"fr",
     "date":"2026-05-12T04:00:54",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365288",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4014,7 +4014,7 @@
     "text":"application utilisée pendant plusieurs mois puis désinstallée car elle est moins pratique que le site . sur la fiche d'un produit il n'y a pas le lien vers les pièces détachées . lorsqu'on quitte l'application la fiche consultée n'est pas conservée. la navigation par sport et type de produit est moins intuitive.",
     "language":"fr",
     "date":"2026-05-11T19:31:11",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365292",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4029,7 +4029,7 @@
     "text":"Ne synchronise qu'une fois sur trois mon appli suunto du coup les points ne sont pas pris en compte. Impossible de trouver juste les produits vendus en magasin et non vendus soit par internet ou par d'autres vendeurs. Bref",
     "language":"fr",
     "date":"2026-05-11T15:21:43",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365295",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -4044,7 +4044,7 @@
     "text":"J'aime cette application surtout pour consulter des articles, quand au nombre de points je pense qu'il faut énormément de points pour que celà soit intéressant.",
     "language":"fr",
     "date":"2026-05-11T03:56:07",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365301",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4089,7 +4089,7 @@
     "text":"Ne fonctionne plus depuis fin avril, tous comme l'application coach. D'après les avis en ligne je ne suis clairement pas le seul. même avec mon smartphone neuf ça ne fonctionne pas.",
     "language":"fr",
     "date":"2026-05-10T12:37:37",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365311",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4104,7 +4104,7 @@
     "text":"lorsque j'essaie de me connecter à mon compte, l'application me redirige vers un page de connexion -> erreur 404. encore une fois decathlon se révèle très décevant niveau software",
     "language":"fr",
     "date":"2026-05-10T10:58:16",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365314",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4134,7 +4134,7 @@
     "text":"l'appli ne se charge plus",
     "language":"fr",
     "date":"2026-05-10T07:02:24",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365322",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4164,7 +4164,7 @@
     "text":"Erreur 404 sur l'application. Impossible d'en sortir. Réinstallation sans effet.",
     "language":"fr",
     "date":"2026-05-09T06:28:18",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365330",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -4179,7 +4179,7 @@
     "text":"Super appli facile d'utilisation tout y est !",
     "language":"fr",
     "date":"2026-05-08T21:24:56",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365335",
     "sentiment_score":0.417,
     "sentiment_label":"positive"
@@ -4224,7 +4224,7 @@
     "text":"Manque de paramètres. Impossible d'effectuer un retour depuis l'application.",
     "language":"fr",
     "date":"2026-05-07T16:56:44",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365348",
     "sentiment_score":-0.283,
     "sentiment_label":"negative"
@@ -4434,7 +4434,7 @@
     "text":"Bonjour, l'application est géniale on peut y trouver tous les produits que l'on peut imaginer sur la pratique sportive. Cependant depuis quelque temps je n'arrive plus à lier mon compte Decathlon et cette application. Merci de votre retour pour y remédier",
     "language":"fr",
     "date":"2026-05-01T14:55:30",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365399",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4464,7 +4464,7 @@
     "text":"L'application m'envoie vers une page 404 no found.",
     "language":"fr",
     "date":"2026-04-29T09:49:24",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365408",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4479,7 +4479,7 @@
     "text":"Cela fait plusieurs mois désormais qu'il est impossible de se connecter sur cette application. Où sont les développeurs ?",
     "language":"fr",
     "date":"2026-04-29T08:01:02",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365412",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -4509,7 +4509,7 @@
     "text":"excellent application",
     "language":"fr",
     "date":"2026-04-28T12:29:48",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365419",
     "sentiment_score":1.0,
     "sentiment_label":"positive"
@@ -4524,7 +4524,7 @@
     "text":"excellent rapport qualité-prix",
     "language":"fr",
     "date":"2026-04-27T22:10:56",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365422",
     "sentiment_score":1.0,
     "sentiment_label":"positive"
@@ -4554,7 +4554,7 @@
     "text":"Une excellente application.... j'ai acheté deux produits en ligne.... bonne continuation",
     "language":"fr",
     "date":"2026-04-26T16:01:00",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365429",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4614,7 +4614,7 @@
     "text":"Wonderful app with a great experience, deserves 5 stars.",
     "language":"fr",
     "date":"2026-04-23T11:40:43",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365451",
     "sentiment_score":0.9,
     "sentiment_label":"positive"
@@ -4659,7 +4659,7 @@
     "text":"bonne application mais dommage fonctionne pas tout le temps pour valider ton panier",
     "language":"fr",
     "date":"2026-04-21T10:43:09",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365463",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4689,7 +4689,7 @@
     "text":"non mais c'est quoi cette application ? Impossible d accéder à son compte , page blanche et rien d autre impossible de renseigner son identifiant et mot de passe .",
     "language":"fr",
     "date":"2026-04-20T16:03:21",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365470",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -4719,7 +4719,7 @@
     "text":"Bonjour, J'aime beaucoup votre appli, je l'utilise toutes les semaines. Par contre, j'étais sûre de m'être inscrite, au challenge Move and feel de ce mois d'avril, hier j'ai voulu vérifier si je l'avais terminé, mais je n'avais pas le petit encart bleu \"inscrit\" et il n'y avait rien dans les challenges terminés, du coup je me suis réinscrite et aujourd'hui j'ai un petit encart noir \"+null\".",
     "language":"fr",
     "date":"2026-04-20T07:51:11",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365477",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4764,7 +4764,7 @@
     "text":"application très bien",
     "language":"fr",
     "date":"2026-04-19T03:56:03",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365488",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4779,7 +4779,7 @@
     "text":"Impossible de se connecter à mon compte et pas de réponse côté service client ! Au vu des notes cette appli a t'elle été abandonnée ?",
     "language":"fr",
     "date":"2026-04-18T14:25:04",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365492",
     "sentiment_score":-0.833,
     "sentiment_label":"negative"
@@ -4809,7 +4809,7 @@
     "text":"Application qui bug tout le temps. plusieurs problèmes liés aussi bien a l'appli qu'a decathlon: Depuis l'ouverture a la concurrence web on trouve des produits non vendus par Decathlon. devoir mettre un filtre vendeur c'est pénible. politie 0 stocks élitiste et difficile d'accéder aux articles choisis. Une section aide inutile et inaccessible sur l'appli : pour être averti d'un retour en stock impossible de demander un mail. Des produits encore en ligne alors qu'il en reste 1 seul en France....",
     "language":"fr",
     "date":"2026-04-17T10:23:40",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365500",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -4854,7 +4854,7 @@
     "text":"Pourquoi cette app s'appelle Décathlon Canada maintenant ? edit: j'ai reçu une réponse de leur part qui n'a ni queue ni tête... c'est la seule et unique app. de quoi ils parlent ? 🤡",
     "language":"fr",
     "date":"2026-04-15T13:45:03",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365511",
     "sentiment_score":0.375,
     "sentiment_label":"positive"
@@ -4869,7 +4869,7 @@
     "text":"Super application! Tout fonctionne très bien et des produits de qualités !",
     "language":"fr",
     "date":"2026-04-14T17:02:20",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365515",
     "sentiment_score":0.521,
     "sentiment_label":"positive"
@@ -4899,7 +4899,7 @@
     "text":"une galère pour se connecter a chaque fois, surtout maintenant c'est simplement impossible, l'application essaie d'aller sur une page qui se retrouve en 404 et je n'ai aucune autre option. autre point , quand j'arrivais à me connecter avant et que je voulais aller voir la liste de mes anciens achats, les produits qui ne sont plus disponible disparaissent aussi de la liste d'achat ce qui n'a pas de sens j'aime bien le magasin en soi mais là ça fait trop longtemps que l'application m'embête",
     "language":"fr",
     "date":"2026-04-11T13:14:59",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365523",
     "sentiment_score":-0.667,
     "sentiment_label":"negative"
@@ -4914,7 +4914,7 @@
     "text":"Etant une adepte du sport, je recommande cette application. facile d'utilisation elle permet de trouver rapidement les produits personnalisés dont vous avez besoin ainsi qu'un panel d'applications idéal pour exercer une activité physique de manière adaptée.",
     "language":"fr",
     "date":"2026-04-11T13:09:09",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365527",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
@@ -4944,7 +4944,7 @@
     "text":"Très bonne application mais la visualisation des stocks dans d'autres magasins ne fonctionne pas (rien ne se produit quand on appuie sur le bouton)",
     "language":"fr",
     "date":"2026-04-09T20:44:08",
-    "sport_category":"other",
+    "sport_category":"app_delivery",
     "collected_at":"2026-05-23T23:31:42.365535",
     "sentiment_score":0.0,
     "sentiment_label":"neutral"
