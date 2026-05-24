@@ -1,5 +1,200 @@
 [
   {
+    "review_id": "gp_28f7a99c-f1de-4552-aa5d-0977cc23ae23",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Satisfeito",
+    "language": "pt",
+    "date": "2026-05-22T21:43:08",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302630"
+  },
+  {
+    "review_id": "gp_b3b4b1a6-3671-4fac-ae3c-621982c388cf",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Recomendo a loja.",
+    "language": "pt",
+    "date": "2026-05-22T15:27:10",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302636"
+  },
+  {
+    "review_id": "gp_370fb0c6-08c0-4d68-a771-034cae8b5e6e",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "Muito ruim !!!! Tentei fazer compras online 4 vezes, o app informa que meu pedido foi aceito, fornece um número, mas o sistema não processa o pagamento e nada aparece em \"minhas compras\" O atendimento em ajuda é feito por um robô no Whatsapp que após eu passar o número do pedido ele informa que ele será entregue em \"X\" dias, o que não acontece. Pelo app tentei remover minha conta, mas depois de dias aguardando ela ainda continua lá. Tentei por e-mail e nada acontece.",
+    "language": "pt",
+    "date": "2026-05-22T14:45:22",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302639"
+  },
+  {
+    "review_id": "gp_86adb4b3-782f-4e05-a7f6-e83d9ad1e616",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "pior app, só dá problema",
+    "language": "pt",
+    "date": "2026-05-20T14:04:15",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302641"
+  },
+  {
+    "review_id": "gp_9fe4f47c-1685-42e2-804b-a2ef082c3e5b",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 4.0,
+    "text": "O APP faz o que promete, não é dos melhores no quesito de transparência, quanto ao valor a ser pago na finalização da compra, deveria ter um resumo com o valor do produto, desco tos, cash back e valor final a ser pago em função do meio de pagamento, fora isto o resto é ok. O usuário tem que prestar muita atenção para não ser induzido a erro na finalização do pagamento (quanto ao valor final a ser pago).",
+    "language": "pt",
+    "date": "2026-05-20T13:41:42",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302643"
+  },
+  {
+    "review_id": "gp_85ebfea3-6723-442c-9884-8d0e9ee37b92",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 3.0,
+    "text": "Sistema de cashback não funciona",
+    "language": "pt",
+    "date": "2026-05-20T01:07:29",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302645"
+  },
+  {
+    "review_id": "gp_6035856c-af46-4a14-b08e-af3e322b9cda",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "Dificuldade em encontrar o menu, Dificuldade em aumentar a lupa. pede cum Cep de 11 digital.",
+    "language": "pt",
+    "date": "2026-05-19T23:14:59",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302647"
+  },
+  {
+    "review_id": "gp_47cd261f-a3db-475d-b7ce-186101813e8b",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "o Aplicativo literalmente enche o saco com propaganda o tempo todo e não oferece um meio de desabilitar. Ao menos que desabilite tudo do Aplicativo até as notificações sobre seu pedido... vergonhoso.",
+    "language": "pt",
+    "date": "2026-05-19T15:51:37",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302649"
+  },
+  {
+    "review_id": "gp_3912b8b6-f78f-4a12-bec9-a02b3c07f90e",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "Não foi pior pq completei minha compra pelo site. O app tinha mais opções de entrega, incluindo uma que era 50% mais barata e só 1 dia útil a mais, como queria muito o produto e é da marca própria completei o pedido pela web, mas a experiência do usuário não poderia ser pior, o que contrasta bastante que ao fechar o pedido na web ela te indica o app para melhor experiência. Até o caminho que eles enviam na resposta pra supostamente dar mais detalhes do ocorrido quebra.",
+    "language": "pt",
+    "date": "2026-05-19T15:42:19",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302651"
+  },
+  {
+    "review_id": "gp_be1d60ca-01af-4d5d-aa12-bf0aa59e5b32",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "aplicativo ruim e BEACH Tênis fica junto do tennis.... SEPAREM LOGO",
+    "language": "pt",
+    "date": "2026-05-19T02:07:17",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302654"
+  },
+  {
+    "review_id": "gp_cfa8081d-6ce2-4b48-b481-bb851fa9c7d6",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 2.0,
+    "text": "aplicativo nao deixa comprar... fica resetando o endereço mesmo ja confirmado, bug pessimo que me fez desistir de uma compra de 2000 reais.",
+    "language": "pt",
+    "date": "2026-05-18T22:40:32",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302656"
+  },
+  {
+    "review_id": "gp_135431be-8da8-44dd-9716-521c500dbcd0",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "Não consigo finalizar a minha compra, da erro tanto no Pix quando no cartão. e não tem um contato de suporte.",
+    "language": "pt",
+    "date": "2026-05-18T15:51:22",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302657"
+  },
+  {
+    "review_id": "gp_0e395112-b367-4c0a-93c9-3d51cf25d401",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Excelente as variedades proporcionada por esta conceituada loja !",
+    "language": "pt",
+    "date": "2026-05-17T15:22:33",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302659"
+  },
+  {
+    "review_id": "gp_ceada2e7-0809-418f-9f71-c1efcaa4ac8d",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 4.0,
+    "text": "primeira compra , aguarda do para mais...",
+    "language": "pt",
+    "date": "2026-05-17T15:05:39",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302661"
+  },
+  {
+    "review_id": "gp_1570ce8f-3c7c-4266-9e1b-e634fd8299ce",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Loja referência e produtos de qualidades.",
+    "language": "pt",
+    "date": "2026-05-17T14:28:12",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302663"
+  },
+  {
     "review_id": "gp_4b63a765-4a4d-4dc2-91c2-5fa7e594fe72",
     "source": "google_play",
     "store_id": "app_br",
@@ -8,9 +203,9 @@
     "rating": 1.0,
     "text": "A minha compra nunca chegou, ainda tô tentando resolver, péssima experiência.",
     "language": "pt",
-    "date": "2026-05-15T09:03:46",
+    "date": "2026-05-15T12:03:46",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738751"
+    "collected_at": "2026-05-23T23:31:31.302665"
   },
   {
     "review_id": "gp_270ae823-4742-4dcd-b102-0023b8959f0f",
@@ -21,9 +216,9 @@
     "rating": 3.0,
     "text": "meio lento. Buga as imagens",
     "language": "pt",
-    "date": "2026-05-14T22:59:17",
+    "date": "2026-05-15T01:59:17",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738755"
+    "collected_at": "2026-05-23T23:31:31.302667"
   },
   {
     "review_id": "gp_088b0bc4-61c9-43ac-a65a-bc4ee5483aa3",
@@ -34,9 +229,9 @@
     "rating": 1.0,
     "text": "Cuidado na compras de calçados, eles removem a caixa original e enviam em um saco, no app essa informação não aparece. Somente quando acessamos pelo Navegador é possível ver essa informação.",
     "language": "pt",
-    "date": "2026-05-14T10:19:23",
+    "date": "2026-05-14T13:19:23",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738758"
+    "collected_at": "2026-05-23T23:31:31.302668"
   },
   {
     "review_id": "gp_7a5af46a-acc2-44bd-bd8f-8acf2e293910",
@@ -47,9 +242,9 @@
     "rating": 5.0,
     "text": "app prático, mas em alguns momentos ainda buga.",
     "language": "pt",
-    "date": "2026-05-13T22:26:49",
+    "date": "2026-05-14T01:26:49",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738760"
+    "collected_at": "2026-05-23T23:31:31.302670"
   },
   {
     "review_id": "gp_2e8ba581-5b20-4e37-bb3a-6e27bc7ae1d5",
@@ -60,9 +255,9 @@
     "rating": 5.0,
     "text": "o app funciona melhor que o telefone e o atendimento fisico",
     "language": "pt",
-    "date": "2026-05-13T16:28:00",
+    "date": "2026-05-13T19:28:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738761"
+    "collected_at": "2026-05-23T23:31:31.302673"
   },
   {
     "review_id": "gp_a452777d-0429-4b23-8650-25e1c33b93e2",
@@ -73,9 +268,9 @@
     "rating": 5.0,
     "text": "aqui no Brasil não usei.Na Alemanha 100% funcional, funcionários respeitosos, educados adorei",
     "language": "pt",
-    "date": "2026-05-13T13:49:27",
+    "date": "2026-05-13T16:49:27",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738763"
+    "collected_at": "2026-05-23T23:31:31.302675"
   },
   {
     "review_id": "gp_65fe5d5e-e9fa-4d39-a5a3-04a505ef73a4",
@@ -86,9 +281,9 @@
     "rating": 5.0,
     "text": "super qualidade",
     "language": "pt",
-    "date": "2026-05-13T10:10:50",
+    "date": "2026-05-13T13:10:50",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738765"
+    "collected_at": "2026-05-23T23:31:31.302677"
   },
   {
     "review_id": "gp_d61e6e30-de0c-4007-8efe-5e4422e7b2de",
@@ -99,9 +294,9 @@
     "rating": 1.0,
     "text": "Demorei 3 dias para conseguir concluir a compra. O cashback so poderia ser utilizado se a compra fosse feita pelo app e o QrCode so poderia ser gerado apos o pagamento(ironico)... consegui pagar, mas o cashbak ficou para tras.",
     "language": "pt",
-    "date": "2026-05-12T13:41:45",
+    "date": "2026-05-12T16:41:45",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738767"
+    "collected_at": "2026-05-23T23:31:31.302679"
   },
   {
     "review_id": "gp_2b0a91d5-7e10-4b6c-8cca-2b18f47d033f",
@@ -112,9 +307,9 @@
     "rating": 1.0,
     "text": "Pior experiência de compra digital que já tive em toda vida! Aplicativo lento, com bug e não permite finalizar compra. Fazer a compra pelo computador é impossível, pois não permite avançar para pagamento (Tentativa em 3 dispositivos diferentes). Pra fechar com chave de ouro atendimento que não resolve nada, fica mandando limpar cache e reinstalar o App.",
     "language": "pt",
-    "date": "2026-05-12T11:25:52",
+    "date": "2026-05-12T14:25:52",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738768"
+    "collected_at": "2026-05-23T23:31:31.302680"
   },
   {
     "review_id": "gp_f69ab957-9a95-43d8-aa5d-89269c1bd503",
@@ -125,9 +320,9 @@
     "rating": 5.0,
     "text": "Excelente aplicativo. Rápido. Fácil. Intuitivo.",
     "language": "pt",
-    "date": "2026-05-12T11:24:11",
+    "date": "2026-05-12T14:24:11",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738770"
+    "collected_at": "2026-05-23T23:31:31.302682"
   },
   {
     "review_id": "gp_a6618d7e-00bb-418e-844c-bf9b731375a2",
@@ -138,9 +333,9 @@
     "rating": 5.0,
     "text": "Sempre surpreende!",
     "language": "pt",
-    "date": "2026-05-11T22:22:37",
+    "date": "2026-05-12T01:22:37",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738771"
+    "collected_at": "2026-05-23T23:31:31.302684"
   },
   {
     "review_id": "gp_8bfb118f-6a04-43be-80a9-e15bc95a88e7",
@@ -151,9 +346,9 @@
     "rating": 5.0,
     "text": "A navegação do site ainda precisa melhorar. No geral é uma excelente loja.",
     "language": "pt",
-    "date": "2026-05-11T21:54:58",
+    "date": "2026-05-12T00:54:58",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738773"
+    "collected_at": "2026-05-23T23:31:31.302686"
   },
   {
     "review_id": "gp_a02062ae-8235-4fe3-906b-0be9f5b75581",
@@ -164,9 +359,9 @@
     "rating": 1.0,
     "text": "app horrível. O cashback sumiu, não tem suporte.",
     "language": "pt",
-    "date": "2026-05-11T16:30:09",
+    "date": "2026-05-11T19:30:09",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738774"
+    "collected_at": "2026-05-23T23:31:31.302688"
   },
   {
     "review_id": "gp_8dcab601-9c37-464b-a423-d005fb81481b",
@@ -177,9 +372,9 @@
     "rating": 1.0,
     "text": "aplicativo ruim, site ruim e empresa ruim. não queira depender do atendimento deles",
     "language": "pt",
-    "date": "2026-05-11T09:56:47",
+    "date": "2026-05-11T12:56:47",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738776"
+    "collected_at": "2026-05-23T23:31:31.302690"
   },
   {
     "review_id": "gp_dc206156-33a3-418d-9645-ba7b619e1540",
@@ -190,9 +385,9 @@
     "rating": 1.0,
     "text": "Péssimo, não consigo finalizar a compra, no Pix ou no cartão. isto é um absurdo uma loja mundial, a pessoa não consegue finalizar o pedido. Mesmo no site estou tendo o mesmo problema. Tenho que ir na loja física 🤔🤔😤😤",
     "language": "pt",
-    "date": "2026-05-10T12:31:05",
+    "date": "2026-05-10T15:31:05",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738777"
+    "collected_at": "2026-05-23T23:31:31.302693"
   },
   {
     "review_id": "gp_9b681179-b165-4fb5-8582-3fab2f53021b",
@@ -203,9 +398,9 @@
     "rating": 1.0,
     "text": "Esse app é péssimo. Estou há um tempão tentando pagar pelo pix para ganhar o desconto e não estou conseguindo. Só dá erro.",
     "language": "pt",
-    "date": "2026-05-10T10:11:12",
+    "date": "2026-05-10T13:11:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738779"
+    "collected_at": "2026-05-23T23:31:31.302694"
   },
   {
     "review_id": "gp_a8d27610-2899-42fd-98f9-58d3cc502b97",
@@ -216,9 +411,9 @@
     "rating": 5.0,
     "text": "decathlon é uma marca de grife. decathlon é bom demais",
     "language": "pt",
-    "date": "2026-05-09T21:51:54",
+    "date": "2026-05-10T00:51:54",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738780"
+    "collected_at": "2026-05-23T23:31:31.302696"
   },
   {
     "review_id": "gp_2c9ee5b5-b05c-48b2-a21e-7d7e56b61ce4",
@@ -229,9 +424,9 @@
     "rating": 1.0,
     "text": "lixo de transportadora jadlog que vocês usam entregaram pra não sei quem o meu pedido e o suporte desta empresa não existe.",
     "language": "pt",
-    "date": "2026-05-09T21:35:45",
+    "date": "2026-05-10T00:35:45",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738782"
+    "collected_at": "2026-05-23T23:31:31.302698"
   },
   {
     "review_id": "gp_2abeaded-79ed-4044-bbf7-db447c0939df",
@@ -242,9 +437,9 @@
     "rating": 5.0,
     "text": "Sensacional",
     "language": "pt",
-    "date": "2026-05-07T22:06:35",
+    "date": "2026-05-08T01:06:35",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738784"
+    "collected_at": "2026-05-23T23:31:31.302700"
   },
   {
     "review_id": "gp_81720685-1d7f-4222-b5b4-ee228b131dbc",
@@ -255,9 +450,9 @@
     "rating": 1.0,
     "text": "Olha, de verdade tá difícil, os produtos são fora de sério, mas que enrolação pra fazer uma devolução, isso que entrei pra fazer troca ainda, já tão fazendo quase dez dias que receberam a devolução e ainda não liberaram o dinheiro pra eu fazer a nova compra. o Whatsapp não atende, o e-mail não responde, to P da vida com isso.",
     "language": "pt",
-    "date": "2026-05-06T16:53:12",
+    "date": "2026-05-06T19:53:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738785"
+    "collected_at": "2026-05-23T23:31:31.302702"
   },
   {
     "review_id": "gp_8557e6b3-0f20-48c6-9352-a137d5364bf6",
@@ -268,9 +463,9 @@
     "rating": 1.0,
     "text": "não é possível fazer compras pelo app. só dá erro.",
     "language": "pt",
-    "date": "2026-05-06T15:37:34",
+    "date": "2026-05-06T18:37:34",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738786"
+    "collected_at": "2026-05-23T23:31:31.302704"
   },
   {
     "review_id": "gp_4e88c80a-8959-42ab-8061-915ea3a4b33c",
@@ -281,9 +476,9 @@
     "rating": 5.0,
     "text": "boms produtos e b om preço",
     "language": "pt",
-    "date": "2026-05-06T11:19:36",
+    "date": "2026-05-06T14:19:36",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738788"
+    "collected_at": "2026-05-23T23:31:31.302706"
   },
   {
     "review_id": "gp_ce86024d-48ab-48eb-9b52-1f1411333c76",
@@ -294,9 +489,9 @@
     "rating": 5.0,
     "text": "Aplicativo muito bom para pesquisas sobre produtos esportivos, não botava fé no app mas me surpreendeu, Parabéns Decathlon😊😊👏",
     "language": "pt",
-    "date": "2026-05-04T18:59:28",
+    "date": "2026-05-04T21:59:28",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738789"
+    "collected_at": "2026-05-23T23:31:31.302707"
   },
   {
     "review_id": "gp_a1f3f92f-3db6-474e-bc6f-d460e92afa42",
@@ -307,9 +502,9 @@
     "rating": 1.0,
     "text": "Como compro a mesa de pebolim??????N liga para a 1 estrela pq é minha primeira vez",
     "language": "pt",
-    "date": "2026-04-30T05:52:50",
+    "date": "2026-04-30T08:52:50",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738791"
+    "collected_at": "2026-05-23T23:31:31.302709"
   },
   {
     "review_id": "gp_8b040116-c1ae-4dd5-b4ed-fec14fe3fd2c",
@@ -320,9 +515,9 @@
     "rating": 5.0,
     "text": "Acho muito diversificado as opções para presente, pelo site.",
     "language": "pt",
-    "date": "2026-04-28T14:04:14",
+    "date": "2026-04-28T17:04:14",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738792"
+    "collected_at": "2026-05-23T23:31:31.302711"
   },
   {
     "review_id": "gp_3c1ba052-cf00-4fb0-afdc-de8e122bbc69",
@@ -333,9 +528,9 @@
     "rating": 5.0,
     "text": "1 vez tenho visto falarem bem",
     "language": "pt",
-    "date": "2026-04-26T07:10:22",
+    "date": "2026-04-26T10:10:22",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738794"
+    "collected_at": "2026-05-23T23:31:31.302713"
   },
   {
     "review_id": "gp_a5a40173-3c30-482b-83b1-a72a5a1c2aae",
@@ -346,9 +541,9 @@
     "rating": 4.0,
     "text": "muito bom, faltando a opção de:(obs) na entrega pra descrever: pode deixar no vizinho, pode deixar na janela ou jogar dentro da garagem e tirar uma foto!",
     "language": "pt",
-    "date": "2026-04-24T09:24:41",
+    "date": "2026-04-24T12:24:41",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738795"
+    "collected_at": "2026-05-23T23:31:31.302715"
   },
   {
     "review_id": "gp_22dbdb79-b8df-484f-8a85-a5691f4611cd",
@@ -359,9 +554,9 @@
     "rating": 2.0,
     "text": "e muito bom tá ok mas fi ver um tênis muitos só tem um par rou dois e não agrupado por marca e nas vitaminas não tá muito moderno só marca que é meior simples; olhando bem tem que melhorar um pouco muitissimo obrigado",
     "language": "pt",
-    "date": "2026-04-22T15:51:24",
+    "date": "2026-04-22T18:51:24",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738797"
+    "collected_at": "2026-05-23T23:31:31.302717"
   },
   {
     "review_id": "gp_9fbed7c4-b8e3-4f3d-9ad8-224469c6bb9a",
@@ -372,9 +567,9 @@
     "rating": 1.0,
     "text": "Já faz uma semana que baixei o app, não consegui ver nenhum produto, todos sem imagens, vc acessa a categoria (por exemplo Masculino-Tenis) e aparecem coisas totalmente diferentes, tipo Camisola Feminina, e tudo sem imagem, muito ruim, quem é que compra assim? o Site tbm a mesma coisa, procura alguma coisa pelas categorias utilizando os filtros de pesquisa e aparece coisas aleatórias nada a ver, pesquisei tênis casual masculino e só aparece sandália feminina, bolsa, acessórios..",
     "language": "pt",
-    "date": "2026-04-22T11:03:35",
+    "date": "2026-04-22T14:03:35",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738798"
+    "collected_at": "2026-05-23T23:31:31.302718"
   },
   {
     "review_id": "gp_394ecfde-140f-476a-8c78-39d081f96c07",
@@ -385,9 +580,9 @@
     "rating": 3.0,
     "text": "minha experiência foi muito boa na hora da compra mas não tinha opções mais acessíveis de pagamento exemplo: pix. Mas a loja é boa para pesquisas mas tem poucos conteúdos de certos assuntos. E na hora de receber meu pedido o pedido está atrasado para um caramba e precisei cancelar espero que a loja melhore pois vejo muito potencial desperdiçado em um app com sistema de entrega tão ruim",
     "language": "pt",
-    "date": "2026-04-21T20:37:25",
+    "date": "2026-04-21T23:37:25",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738800"
+    "collected_at": "2026-05-23T23:31:31.302720"
   },
   {
     "review_id": "gp_aac33817-b8bb-4806-ad65-ee3e7b398632",
@@ -398,9 +593,9 @@
     "rating": 1.0,
     "text": "Extravio na transportadora Loggi na primeira compra que fiz pelo app. Deplorável!",
     "language": "pt",
-    "date": "2026-04-21T10:40:37",
+    "date": "2026-04-21T13:40:37",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738801"
+    "collected_at": "2026-05-23T23:31:31.302722"
   },
   {
     "review_id": "gp_a1e78da5-1715-492b-b75b-60f9853eab8c",
@@ -411,9 +606,9 @@
     "rating": 5.0,
     "text": "Gosto de comprar, produtos de ótima qualidade e rápida entrega, muito bom!",
     "language": "pt",
-    "date": "2026-04-21T00:55:13",
+    "date": "2026-04-21T03:55:13",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738802"
+    "collected_at": "2026-05-23T23:31:31.302724"
   },
   {
     "review_id": "gp_565b5640-9736-4306-bf78-767475a4a22b",
@@ -424,9 +619,9 @@
     "rating": 4.0,
     "text": "não me deram o desconto das bermudas,que chato isso pelo Sait",
     "language": "pt",
-    "date": "2026-04-20T17:05:09",
+    "date": "2026-04-20T20:05:09",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738804"
+    "collected_at": "2026-05-23T23:31:31.302726"
   },
   {
     "review_id": "gp_414a0b46-8498-4f6a-8808-608f5fc207f1",
@@ -437,9 +632,9 @@
     "rating": 1.0,
     "text": "nao consigo fazer compra. o app tenta fazer verificação de robo, mas nao consigo clicar em nada. horrível e nao recomendo. melhorem",
     "language": "pt",
-    "date": "2026-04-19T22:11:04",
+    "date": "2026-04-20T01:11:04",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738805"
+    "collected_at": "2026-05-23T23:31:31.302728"
   },
   {
     "review_id": "gp_61820e4a-9559-4712-ab7c-94f86c355758",
@@ -450,9 +645,9 @@
     "rating": 1.0,
     "text": "O app não é fluido e existem produtos não disponíveis para o CEP.",
     "language": "pt",
-    "date": "2026-04-19T20:39:31",
+    "date": "2026-04-19T23:39:31",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738807"
+    "collected_at": "2026-05-23T23:31:31.302729"
   },
   {
     "review_id": "gp_ca0d48c1-0de7-4d32-813d-1b0572d1bc16",
@@ -463,9 +658,9 @@
     "rating": 1.0,
     "text": "capthcah de imagens bugado irritante demais",
     "language": "pt",
-    "date": "2026-04-19T18:25:35",
+    "date": "2026-04-19T21:25:35",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738808"
+    "collected_at": "2026-05-23T23:31:31.302731"
   },
   {
     "review_id": "gp_ad59acc0-48e5-4dda-ac4f-7c1a58679cfa",
@@ -476,9 +671,9 @@
     "rating": 1.0,
     "text": "adoro a Decathon mas o aplicativo é meio bugado. Não tem por exemplo a opção para pagar no pix, apesar de ter produtos com desconto no pix",
     "language": "pt",
-    "date": "2026-04-19T15:23:52",
+    "date": "2026-04-19T18:23:52",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738809"
+    "collected_at": "2026-05-23T23:31:31.302733"
   },
   {
     "review_id": "gp_10ab5a4f-4d84-4d57-b555-beafc3b073fa",
@@ -489,9 +684,9 @@
     "rating": 5.0,
     "text": "praticamente super indico amei",
     "language": "pt",
-    "date": "2026-04-19T12:46:52",
+    "date": "2026-04-19T15:46:52",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738811"
+    "collected_at": "2026-05-23T23:31:31.302735"
   },
   {
     "review_id": "gp_e08dcec9-4ad6-45d9-8a39-d7aaecf4c965",
@@ -502,9 +697,9 @@
     "rating": 4.0,
     "text": "Mesmo estando no nível Premium e comprando acima do valor estipulado para frete grátis, continuo pagando frete e não ganhei o desconto de aniversário pq o sistema não deixa registrar a data. Os produtos são de qualidade, os descontos não.",
     "language": "pt",
-    "date": "2026-04-19T12:20:44",
+    "date": "2026-04-19T15:20:44",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738812"
+    "collected_at": "2026-05-23T23:31:31.302737"
   },
   {
     "review_id": "gp_258f333d-46d1-4723-ae8e-86d9075e3490",
@@ -515,9 +710,9 @@
     "rating": 1.0,
     "text": "não consigo finalizar a compra, quando seleciono para finalizar, vai para o \"não sou um robo\" e não da pra selecionar ...",
     "language": "pt",
-    "date": "2026-04-19T11:18:27",
+    "date": "2026-04-19T14:18:27",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738814"
+    "collected_at": "2026-05-23T23:31:31.302739"
   },
   {
     "review_id": "gp_33652184-9703-4610-8fcf-cfe73a2a811f",
@@ -528,9 +723,451 @@
     "rating": 1.0,
     "text": "nao consigo finalizar minha compra, app muito ruin instável",
     "language": "pt",
-    "date": "2026-04-19T00:34:00",
+    "date": "2026-04-19T03:34:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:20.738815"
+    "collected_at": "2026-05-23T23:31:31.302741"
+  },
+  {
+    "review_id": "gp_ee99d29e-7bc7-46e1-accf-8c9d8c12abae",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 3.0,
+    "text": "O captcha está travando quase impedindo de efetivar a compra.",
+    "language": "pt",
+    "date": "2026-04-19T02:59:34",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302742"
+  },
+  {
+    "review_id": "gp_a22e4c92-500d-4f17-840b-48a8aa391db3",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 2.0,
+    "text": "o App nao abriu as fotos e demorei 2 dias pra conseguir finalizar a compra. quase desisti.",
+    "language": "pt",
+    "date": "2026-04-18T20:13:42",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302744"
+  },
+  {
+    "review_id": "gp_078da880-8dfb-4efe-8fcc-5e9d84dfa6cb",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "aplicativo dá sempre erro ao tentar finalizar a compra",
+    "language": "pt",
+    "date": "2026-04-18T18:42:35",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302746"
+  },
+  {
+    "review_id": "gp_e729592e-7109-4bc5-94a8-e070d12c7902",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 3.0,
+    "text": "app trava demais, reinicia os processos toda hora",
+    "language": "pt",
+    "date": "2026-04-18T16:49:23",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302748"
+  },
+  {
+    "review_id": "gp_95118e6b-3cf2-4260-965b-ece9cf594cb3",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "preços muito bons",
+    "language": "pt",
+    "date": "2026-04-18T15:25:35",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302749"
+  },
+  {
+    "review_id": "gp_91022a27-d1ac-45c1-a443-e5c9f9b0c7e1",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 4.0,
+    "text": "as vezes trava no pagamento Pix, mas nada é perfeito",
+    "language": "pt",
+    "date": "2026-04-17T20:25:04",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302751"
+  },
+  {
+    "review_id": "gp_1017b5f7-b974-4bf5-b2ef-d31914b2b39f",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 3.0,
+    "text": "o pagamento é muito ruim, fica dando erro na página de conferência que não somos robô. A gente não consegue clicar.",
+    "language": "pt",
+    "date": "2026-04-17T16:15:39",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302753"
+  },
+  {
+    "review_id": "gp_c201196e-ea2a-4089-b7b2-5939825e7a49",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "simples e fácil de comprar.",
+    "language": "pt",
+    "date": "2026-04-17T01:12:49",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302755"
+  },
+  {
+    "review_id": "gp_a2fb983f-0ee4-4fc8-a1ec-e7199aa54390",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "compra fácil e rápida",
+    "language": "pt",
+    "date": "2026-04-16T21:33:04",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302757"
+  },
+  {
+    "review_id": "gp_15bbe77b-ab39-4f22-968c-66071a3c331e",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "Desinstalado, na hora de fechar a compra o app abre um captcha totalmente sem sentido e trava o app absolutamente todas as vezes, alem de ter uma das piores buscas que já vi. Já que é impossível comprar, vou tentar na netsho es.",
+    "language": "pt",
+    "date": "2026-04-16T19:28:08",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302759"
+  },
+  {
+    "review_id": "gp_b292675e-5bfc-487b-a124-e80f3daed4c5",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "top de linha obrigado",
+    "language": "pt",
+    "date": "2026-04-16T14:17:09",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302760"
+  },
+  {
+    "review_id": "gp_eca8df6c-db8e-431f-bee1-b36976bf5a54",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 2.0,
+    "text": "Não gerou o código *captcha* pra pagar com cartão de crédito! Falha no sistema Decatlon 😐",
+    "language": "pt",
+    "date": "2026-04-16T03:47:25",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302762"
+  },
+  {
+    "review_id": "gp_067fdacf-28aa-45cc-94f0-f7b2406f2ab9",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "não deixou pagar com o cartao... recaptcha não funcionou. Mesmo após reiniciar o celular. E tentar pelo app e pelo site",
+    "language": "pt",
+    "date": "2026-04-15T15:56:21",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302764"
+  },
+  {
+    "review_id": "gp_903a39fa-79d1-42a0-99f5-caa307265668",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 1.0,
+    "text": "Aplicativo está péssimo, essa versão bagunçou TUDO! Simplesmente, não aplica mais os benefícios para quem é associado ao Clube Decathlon: não computa os 5% de Cashback - só uma ínfima parte do q é devido aparece como \"saldo de Cashback\"; e nem o frete grátis q o associado tem direito seg. as regras do tal Clube, descritas no próprio aplicativo! Aliás, o valor do frete, q não deveria ser cobrado, muda o tempo todo! E o site também está todo errado: hoje é inviável comprar online pela Decathlon!",
+    "language": "pt",
+    "date": "2026-04-15T12:57:50",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302766"
+  },
+  {
+    "review_id": "gp_e0a2001a-90e7-4691-9103-4412ba4e823d",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "simples, rápido e seguro.",
+    "language": "pt",
+    "date": "2026-04-14T17:58:13",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302768"
+  },
+  {
+    "review_id": "gp_34719f73-cd9b-40e4-a655-cfb07c7474c2",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 2.0,
+    "text": "Sempre que clico pra ver as fotos, ele trava e tenho que reiniciar o app.",
+    "language": "pt",
+    "date": "2026-04-14T10:36:04",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302771"
+  },
+  {
+    "review_id": "gp_ae7debfb-2750-439c-82b0-f8b680bd518c",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 3.0,
+    "text": "falta o sistema ser intuitivo so consegue o desconto de primeira compra por incidente minha ou seja falta transparência.",
+    "language": "pt",
+    "date": "2026-04-14T01:44:34",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302774"
+  },
+  {
+    "review_id": "gp_864a9be9-0816-48eb-9ba9-14010efed9ca",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Navegação simples e objetiva.",
+    "language": "pt",
+    "date": "2026-04-13T21:32:04",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302777"
+  },
+  {
+    "review_id": "gp_7e3c3da4-c99e-461a-b193-55ae88270409",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Fácil de usar",
+    "language": "pt",
+    "date": "2026-04-13T12:23:43",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302780"
+  },
+  {
+    "review_id": "gp_f21dd07f-d254-4a25-bcfe-a1b737076063",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "top demais",
+    "language": "pt",
+    "date": "2026-04-13T00:23:26",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302784"
+  },
+  {
+    "review_id": "gp_d4510ed8-e353-45d4-9dc5-3ec763252d4f",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "comprei uma bermuda na decathlon, e gostei muito e hoje comprei outra pelo site",
+    "language": "pt",
+    "date": "2026-04-12T22:13:11",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302787"
+  },
+  {
+    "review_id": "gp_0b44b9d1-4f2a-4c47-adee-ebd2b7526d84",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 3.0,
+    "text": "não aparece totalmente na tela do celular .",
+    "language": "pt",
+    "date": "2026-04-11T12:18:11",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302790"
+  },
+  {
+    "review_id": "gp_c224de53-e8c7-4085-834f-bcee2ec7473c",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 4.0,
+    "text": "site as vezes trava. app também.",
+    "language": "pt",
+    "date": "2026-04-11T11:43:36",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302792"
+  },
+  {
+    "review_id": "gp_9c820854-c327-440a-94ba-b7b9b0558b3f",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 4.0,
+    "text": "vou da 4 estrela pq tentei algumas vezes fazer a compra nao foi simples",
+    "language": "pt",
+    "date": "2026-04-11T00:25:43",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302793"
+  },
+  {
+    "review_id": "gp_7d1fd781-2364-4e1d-81e5-0b10e49ebae9",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "Até agora funciona bem. Aguardando a entrega da compra..",
+    "language": "pt",
+    "date": "2026-04-10T23:53:47",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302795"
+  },
+  {
+    "review_id": "gp_91422ad7-a5ac-4071-940f-d99f29bd8a8e",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "tudo certo",
+    "language": "pt",
+    "date": "2026-04-10T23:38:33",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302797"
+  },
+  {
+    "review_id": "gp_c3d30bc1-9c58-4d2d-8088-08e39036953c",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 5.0,
+    "text": "A primeira vez que comprei um tênis na Decathlon, tive problema com o produto, mas fui super bem atendido e resolveram o meu problema. Recomendo muito essa loja e comprarei outras vezes.",
+    "language": "pt",
+    "date": "2026-04-10T23:00:09",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302799"
+  },
+  {
+    "review_id": "gp_0ca153e3-2caf-4bb8-9d3f-8430a0b79467",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 4.0,
+    "text": "ótimo. não dei 5 porque fechou o site e tive que refazer tudo.",
+    "language": "pt",
+    "date": "2026-04-10T11:50:30",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302801"
+  },
+  {
+    "review_id": "gp_56a993f3-7878-43fb-8688-41db51c0fe16",
+    "source": "google_play",
+    "store_id": "app_br",
+    "store_name": "Decathlon App (Brasil)",
+    "store_city": "Brasil",
+    "rating": 2.0,
+    "text": "É urgente melhorar os filtros do aplicativo. Impossível achar o que se quer a partir dos filtros.",
+    "language": "pt",
+    "date": "2026-04-09T04:06:36",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:31.302802"
+  },
+  {
+    "review_id": "gp_348dce7f-e482-44ce-8803-fe48b3821aaa",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "Imposible iniciar sesión a través de la app, para ver tu cuenta tienes que hacerlo a través de la web. No tiene ningún sentido tener una app si tienes que irte a la web. La app más inútil que he podido instalar en mi teléfono.",
+    "language": "es",
+    "date": "2026-05-22T22:29:49",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517655"
+  },
+  {
+    "review_id": "gp_1994c29f-cc01-4d78-98af-c08aa446e252",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "Última actualización de la App da problemas. No puedo acceder",
+    "language": "es",
+    "date": "2026-05-21T09:13:12",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517660"
+  },
+  {
+    "review_id": "gp_68b53be8-e3a9-4c35-9c9b-71abb003e7be",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "Me gusta la app muy intuitiva y fácil de manejar.",
+    "language": "es",
+    "date": "2026-05-21T07:53:09",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517662"
+  },
+  {
+    "review_id": "gp_673c9a7a-4304-452f-bde4-f0f8f79e7eff",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "excelente aplicación todo ordenado y los productos funcionan muy bien para el deporte que pidas",
+    "language": "es",
+    "date": "2026-05-21T03:28:09",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517664"
+  },
+  {
+    "review_id": "gp_d161a51d-6160-451f-a599-870ed7c69172",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "De un tiempo a esta parte me está dejando de sincronizar mis entrenamientos con Strava y al no reconocerlos, no me da los puntos para poder canjear. Una pena, con lo bien que estaba el programa de puntos.",
+    "language": "es",
+    "date": "2026-05-20T19:44:51",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517667"
   },
   {
     "review_id": "gp_1c734bbb-839f-4a0f-944e-38cf204cc3b7",
@@ -539,11 +1176,37 @@
     "store_name": "Decathlon App (Espanha)",
     "store_city": "Espanha",
     "rating": 1.0,
-    "text": "llevo meses poniendo reseñas de los artículos comprados y no dais los puntos que decís",
+    "text": "llevo meses poniendo reseñas de los artículos comprados y no dais los puntos que decís. Editado: la página a la que me mandáis me sale error 404",
     "language": "es",
-    "date": "2026-05-16T06:53:11",
+    "date": "2026-05-19T15:25:34",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831158"
+    "collected_at": "2026-05-23T23:31:35.517668"
+  },
+  {
+    "review_id": "gp_e3a99496-0805-4a7e-bd5e-14503bce7fe2",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "exelente servicio",
+    "language": "es",
+    "date": "2026-05-19T12:13:01",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517670"
+  },
+  {
+    "review_id": "gp_c136e61e-5ffe-4817-9b90-2d4a36878c9a",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "es muy buena fácil de usar y brinda mucha información de mis compras",
+    "language": "es",
+    "date": "2026-05-18T23:44:00",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517672"
   },
   {
     "review_id": "gp_a11f36f1-6454-4a7d-b4ba-ef0cb64a813e",
@@ -552,11 +1215,50 @@
     "store_name": "Decathlon App (Espanha)",
     "store_city": "Espanha",
     "rating": 1.0,
-    "text": "Ya no es compatible con tu dispositivo.",
+    "text": "\"Ya no es compatible con tu dispositivo\".",
     "language": "es",
-    "date": "2026-05-15T09:48:10",
+    "date": "2026-05-18T16:27:07",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831161"
+    "collected_at": "2026-05-23T23:31:35.517675"
+  },
+  {
+    "review_id": "gp_fa95c8d0-de01-4aec-a91b-4d09319fdc06",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "Muy buena experiencia en la aplicación, función rápido y muestra el stock de cada producto en cada tienda.",
+    "language": "es",
+    "date": "2026-05-17T15:39:44",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517677"
+  },
+  {
+    "review_id": "gp_b71e2795-82b3-4d0a-8866-4e389c9880ce",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "La app mejora la experiencia de usuario y pone a tu alcance las ventajas de ser miembro.",
+    "language": "es",
+    "date": "2026-05-17T10:08:47",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517679"
+  },
+  {
+    "review_id": "gp_cc6ab39a-4b98-48b1-9cad-c21f3228b2e7",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "Excelente aplicación, variedad, solo una cosa importante porfavor actualicen en cuestión de productos en FOTOS, por ejemplo Los tacos todas las Versiones que pongan foto cuáles traen su accesorio y cuáles no, en qué gama si y en cuál no, ejemplo fui ala tienda Física y vi los (Tacos CLR JAGUAR Boots y trae Mochila de cordón o Gymsack), pero en la app cuando se visualiza el producto no dice que lo incluye, ayudará mucho, solo eso pido para saber que productos elegir y comprar seguro✨🙏🏼",
+    "language": "es",
+    "date": "2026-05-17T01:40:47",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517681"
   },
   {
     "review_id": "gp_b2962ab3-cce1-45fa-849b-dd5fecbd3b35",
@@ -567,9 +1269,9 @@
     "rating": 5.0,
     "text": "MUY BUENA APP",
     "language": "es",
-    "date": "2026-05-14T19:07:18",
+    "date": "2026-05-14T22:07:18",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831163"
+    "collected_at": "2026-05-23T23:31:35.517683"
   },
   {
     "review_id": "gp_454ecd7e-3428-400b-9607-87dd15c8089b",
@@ -580,9 +1282,9 @@
     "rating": 2.0,
     "text": "Creeo que Decathlon en cuanto a la función de ofrecer puntos por hacer tanto tiempo de deporte o ejercicio debería de poder integrar nuevos descuentos y bonos interesantes como premios para cosas que a la gente le sería más motivador y útil sudar el esfuerzo y la pasión por hacer deporte, por ejemplo podrían ofrecer descuentos notables y días gratuitos de prueba para acudir a gimnasios de tu ciudad, descuentos en reparaciones y arreglos para bicicletas, patinetes eléctricos, y otras cosas.",
     "language": "es",
-    "date": "2026-05-14T15:21:13",
+    "date": "2026-05-14T18:21:13",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831165"
+    "collected_at": "2026-05-23T23:31:35.517684"
   },
   {
     "review_id": "gp_a18d1b64-838e-4c81-920d-b97e9dc6e21e",
@@ -593,9 +1295,9 @@
     "rating": 5.0,
     "text": "no me deja iniciar sesión. se queda dando vueltas como cargando mucho tiempo",
     "language": "es",
-    "date": "2026-05-13T20:03:43",
+    "date": "2026-05-13T23:03:43",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831166"
+    "collected_at": "2026-05-23T23:31:35.517686"
   },
   {
     "review_id": "gp_cfbd10c1-58b4-4327-bcd8-0f36fd25280d",
@@ -606,9 +1308,9 @@
     "rating": 5.0,
     "text": "Excelente tienda deportiva, mucha variedad y buenos precios",
     "language": "es",
-    "date": "2026-05-13T18:23:30",
+    "date": "2026-05-13T21:23:30",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831168"
+    "collected_at": "2026-05-23T23:31:35.517688"
   },
   {
     "review_id": "gp_fd6cb93d-85a0-4d66-ba6f-7f8940b62751",
@@ -619,9 +1321,9 @@
     "rating": 3.0,
     "text": "En la app no se visualiza opciones de pago para agregar tarjeta de regalo.",
     "language": "es",
-    "date": "2026-05-13T18:19:54",
+    "date": "2026-05-13T21:19:54",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831169"
+    "collected_at": "2026-05-23T23:31:35.517690"
   },
   {
     "review_id": "gp_eb4d7563-85a5-463c-810c-e2b33e88bbe0",
@@ -632,9 +1334,9 @@
     "rating": 5.0,
     "text": "Excelente 👌",
     "language": "es",
-    "date": "2026-05-13T03:18:31",
+    "date": "2026-05-13T06:18:31",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831171"
+    "collected_at": "2026-05-23T23:31:35.517692"
   },
   {
     "review_id": "gp_5df7bee2-7522-4640-bc32-4b043355b9ba",
@@ -645,9 +1347,9 @@
     "rating": 5.0,
     "text": "muy buena app. es útil saber que tienen en la tienda antes de ir",
     "language": "es",
-    "date": "2026-05-10T18:34:20",
+    "date": "2026-05-10T21:34:20",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831172"
+    "collected_at": "2026-05-23T23:31:35.517693"
   },
   {
     "review_id": "gp_9d5409f5-b157-4f11-9791-91249f0406e5",
@@ -658,9 +1360,9 @@
     "rating": 1.0,
     "text": "La última actuación es pésima. Los filtros de las búsquedas no funcionan bien (ej: con filtro ropa de mujer salen bermudas de hombre) y al añadir deportes en mi perfil salen en francés...",
     "language": "es",
-    "date": "2026-05-10T15:18:31",
+    "date": "2026-05-10T18:18:31",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831174"
+    "collected_at": "2026-05-23T23:31:35.517695"
   },
   {
     "review_id": "gp_970218a3-5c95-43d3-9387-e909a980f317",
@@ -671,9 +1373,9 @@
     "rating": 1.0,
     "text": "No puedo pagar en android, manda siempre error al quierer seleccionar forma de pago",
     "language": "es",
-    "date": "2026-05-09T21:14:25",
+    "date": "2026-05-10T00:14:25",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831175"
+    "collected_at": "2026-05-23T23:31:35.517697"
   },
   {
     "review_id": "gp_f05974e6-073d-44a1-ab16-28b6acfde9c8",
@@ -684,9 +1386,9 @@
     "rating": 5.0,
     "text": "la app es bu3na. tienen programas para acumular puntos y es excelente.",
     "language": "es",
-    "date": "2026-05-09T17:19:36",
+    "date": "2026-05-09T20:19:36",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831177"
+    "collected_at": "2026-05-23T23:31:35.517699"
   },
   {
     "review_id": "gp_b6698f47-5744-47bb-80d8-7d4dd30f879e",
@@ -697,9 +1399,9 @@
     "rating": 4.0,
     "text": "buen servicio 👍",
     "language": "es",
-    "date": "2026-05-09T14:42:41",
+    "date": "2026-05-09T17:42:41",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831178"
+    "collected_at": "2026-05-23T23:31:35.517701"
   },
   {
     "review_id": "gp_f82a0bc1-0757-441a-ab36-0e66769c624b",
@@ -710,9 +1412,9 @@
     "rating": 2.0,
     "text": "fatal, en cada actualización, tienes que volver a ingresar usuario y contraseña. será que las demás aplicaciones no se actualizan sin tantos problemas.",
     "language": "es",
-    "date": "2026-05-09T10:57:07",
+    "date": "2026-05-09T13:57:07",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831180"
+    "collected_at": "2026-05-23T23:31:35.517703"
   },
   {
     "review_id": "gp_b8a4a2d2-de3f-4ff8-90bd-4ee202515798",
@@ -723,9 +1425,9 @@
     "rating": 1.0,
     "text": "No se abre",
     "language": "es",
-    "date": "2026-05-07T15:06:32",
+    "date": "2026-05-07T18:06:32",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831181"
+    "collected_at": "2026-05-23T23:31:35.517705"
   },
   {
     "review_id": "gp_3fcc76af-ada7-4990-8771-4f425c1b89df",
@@ -736,9 +1438,9 @@
     "rating": 2.0,
     "text": "No me deja publicar opiniones de lo comprado.",
     "language": "es",
-    "date": "2026-05-06T17:20:36",
+    "date": "2026-05-06T20:20:36",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831183"
+    "collected_at": "2026-05-23T23:31:35.517707"
   },
   {
     "review_id": "gp_1a509a4d-a01a-445e-9e6e-af0affc5a1f9",
@@ -749,9 +1451,9 @@
     "rating": 5.0,
     "text": "tiene todo muy completo",
     "language": "es",
-    "date": "2026-05-05T15:43:49",
+    "date": "2026-05-05T18:43:49",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831185"
+    "collected_at": "2026-05-23T23:31:35.517711"
   },
   {
     "review_id": "gp_fbbe43ae-6129-4503-bef0-1a0132af9597",
@@ -762,9 +1464,9 @@
     "rating": 1.0,
     "text": "Hice un pedido y tardaron más de lo debido para enviarlo. Aparte de eso, lo entregan a una empresa de transporte que ni ellos mismos se conocen. \"Paack\" Estaba en casa, y JAMÁS!, siquiera tocaron el timbre para darme mi pedido. A lo que llamo a Decathlon y nadie me da razón de nada sólo que mi pedido está siendo devuelto porque \"nadie estaba en casa\" y por \"dirección equivocada\". Ni siquiera me llamaron. No sabían ni quién tenía el pedido. No sé por qué trabajan con empresas irresponsables.",
     "language": "es",
-    "date": "2026-05-05T10:14:06",
+    "date": "2026-05-05T13:14:06",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831186"
+    "collected_at": "2026-05-23T23:31:35.517713"
   },
   {
     "review_id": "gp_92525c25-3555-418e-9fcd-978f52ffff3d",
@@ -775,9 +1477,9 @@
     "rating": 2.0,
     "text": "No me deja iniciar sesión. Sale error 404.",
     "language": "es",
-    "date": "2026-05-04T17:19:25",
+    "date": "2026-05-04T20:19:25",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831187"
+    "collected_at": "2026-05-23T23:31:35.517715"
   },
   {
     "review_id": "gp_e097dde2-3944-4268-abf7-a0042fde85fb",
@@ -788,9 +1490,9 @@
     "rating": 1.0,
     "text": "por enésima vez error al iniciar sesión con la cuenta de Google",
     "language": "es",
-    "date": "2026-04-29T16:37:17",
+    "date": "2026-04-29T19:37:17",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831189"
+    "collected_at": "2026-05-23T23:31:35.517717"
   },
   {
     "review_id": "gp_7e0db67a-968a-441b-a13a-2bcfefabe30f",
@@ -801,9 +1503,9 @@
     "rating": 5.0,
     "text": "Muy buena app. Es intuitiva, el catálogo está bien organizado y el proceso de compra es rápido. ¡Muy recomendable!",
     "language": "es",
-    "date": "2026-04-28T05:27:53",
+    "date": "2026-04-28T08:27:53",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831190"
+    "collected_at": "2026-05-23T23:31:35.517719"
   },
   {
     "review_id": "gp_e1064e08-aecc-4160-ba80-f7cfb747b169",
@@ -814,9 +1516,9 @@
     "rating": 5.0,
     "text": "Es increíble la atención y productos",
     "language": "es",
-    "date": "2026-04-27T18:01:13",
+    "date": "2026-04-27T21:01:13",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831192"
+    "collected_at": "2026-05-23T23:31:35.517721"
   },
   {
     "review_id": "gp_d7557a71-8240-41bd-b8a9-3bdd01a575bb",
@@ -827,9 +1529,9 @@
     "rating": 1.0,
     "text": "El apartado de membresía no se sincroniza bien con las actividades. Tarda mucho en sincronizar y en muchas ocasiones no guarda los puntos. Deberían mejorar este aspecto. Aplicaciones como Strava se sincronizan en minutos.",
     "language": "es",
-    "date": "2026-04-27T15:22:32",
+    "date": "2026-04-27T18:22:32",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831193"
+    "collected_at": "2026-05-23T23:31:35.517722"
   },
   {
     "review_id": "gp_40b9cea0-8b9c-49e6-af72-999298200f15",
@@ -840,9 +1542,9 @@
     "rating": 5.0,
     "text": "Me encanta la aplicación, la recomiendo 100x100. Es muy sencilla y fácil para buscar y comprar artículos.",
     "language": "es",
-    "date": "2026-04-27T14:48:08",
+    "date": "2026-04-27T17:48:08",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831195"
+    "collected_at": "2026-05-23T23:31:35.517724"
   },
   {
     "review_id": "gp_56c8868e-18d8-488a-b447-21dd4716f286",
@@ -853,9 +1555,9 @@
     "rating": 5.0,
     "text": "es demasiado deportista jjjjj",
     "language": "es",
-    "date": "2026-04-27T09:41:13",
+    "date": "2026-04-27T12:41:13",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831197"
+    "collected_at": "2026-05-23T23:31:35.517726"
   },
   {
     "review_id": "gp_45fb82b9-f49e-4efa-b82d-87450ccf2de7",
@@ -866,9 +1568,9 @@
     "rating": 5.0,
     "text": "Tienen los mejores productos y con mayor calidad",
     "language": "es",
-    "date": "2026-04-27T00:58:18",
+    "date": "2026-04-27T03:58:18",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831198"
+    "collected_at": "2026-05-23T23:31:35.517728"
   },
   {
     "review_id": "gp_264bbe38-e177-4cf2-b03b-c821f9fa0362",
@@ -879,9 +1581,9 @@
     "rating": 5.0,
     "text": "muy buena acumulas puntos",
     "language": "es",
-    "date": "2026-04-26T22:50:05",
+    "date": "2026-04-27T01:50:05",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831199"
+    "collected_at": "2026-05-23T23:31:35.517730"
   },
   {
     "review_id": "gp_3c3edf95-3c97-4647-951f-c7e14a6fc555",
@@ -892,9 +1594,9 @@
     "rating": 5.0,
     "text": "los mejor de los mejor",
     "language": "es",
-    "date": "2026-04-26T14:03:54",
+    "date": "2026-04-26T17:03:54",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831201"
+    "collected_at": "2026-05-23T23:31:35.517732"
   },
   {
     "review_id": "gp_8a7d8787-8cdf-4bca-acc4-c60e3bc80f20",
@@ -905,9 +1607,9 @@
     "rating": 3.0,
     "text": "es un timo la gestión de los puntos, poco tiempo para gastarlo, nunca puedes gastarlos porque te exigen compras de 110€.... caducan muy rapido",
     "language": "es",
-    "date": "2026-04-26T13:57:50",
+    "date": "2026-04-26T16:57:50",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831202"
+    "collected_at": "2026-05-23T23:31:35.517734"
   },
   {
     "review_id": "gp_fb37b66c-626f-46f7-9f98-2736744c850a",
@@ -918,9 +1620,9 @@
     "rating": 5.0,
     "text": "Aplicación excelente, facil de usar y con toda la información",
     "language": "es",
-    "date": "2026-04-26T02:18:01",
+    "date": "2026-04-26T05:18:01",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831204"
+    "collected_at": "2026-05-23T23:31:35.517736"
   },
   {
     "review_id": "gp_f145bbaf-b6cd-4bab-90f9-c825cf1bd864",
@@ -931,9 +1633,9 @@
     "rating": 1.0,
     "text": "Las recientes condiciones de fidelidad de Decathlon suponen un claro retroceso para el consumidor. El programa ha perdido su propósito: los puntos ya no ofrecen un beneficio real. Condicionar el canje de 3€ a un gasto extra de 30€, o de 10€ a compras de 100€, es una medida desproporcionada. Constituye una doble penalización que enmascara un simple 10% de descuento bajo exigencias de consumo forzado, transformando la recompensa al cliente en una estrategia de venta inaceptable.",
     "language": "es",
-    "date": "2026-04-25T18:59:57",
+    "date": "2026-04-25T21:59:57",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831205"
+    "collected_at": "2026-05-23T23:31:35.517737"
   },
   {
     "review_id": "gp_a4210005-9613-4a81-870c-70374a25d8e5",
@@ -944,9 +1646,9 @@
     "rating": 5.0,
     "text": "Dios bendiga a Decathlon, tienen de todo. Los quiero mucho 🫂",
     "language": "es",
-    "date": "2026-04-25T01:25:24",
+    "date": "2026-04-25T04:25:24",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831207"
+    "collected_at": "2026-05-23T23:31:35.517739"
   },
   {
     "review_id": "gp_d9721ee0-b55b-403f-a856-daa2b097e616",
@@ -957,9 +1659,9 @@
     "rating": 5.0,
     "text": "Excelente tienda siempre encuentro lo que necesito",
     "language": "es",
-    "date": "2026-04-25T00:57:43",
+    "date": "2026-04-25T03:57:43",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831208"
+    "collected_at": "2026-05-23T23:31:35.517741"
   },
   {
     "review_id": "gp_acf3820c-3992-4c7f-9a65-0679bbafac25",
@@ -970,9 +1672,9 @@
     "rating": 5.0,
     "text": "Muy útil para ver mi historial de compras.",
     "language": "es",
-    "date": "2026-04-24T19:56:24",
+    "date": "2026-04-24T22:56:24",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831210"
+    "collected_at": "2026-05-23T23:31:35.517743"
   },
   {
     "review_id": "gp_cd57f494-22a6-4b96-8a9d-9e866bcb4341",
@@ -983,9 +1685,9 @@
     "rating": 5.0,
     "text": "me gusta comprar por qué ay Buenos precios",
     "language": "es",
-    "date": "2026-04-24T16:46:26",
+    "date": "2026-04-24T19:46:26",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831211"
+    "collected_at": "2026-05-23T23:31:35.517745"
   },
   {
     "review_id": "gp_ac99f983-fc1c-47b4-b565-2bd0e5d1d524",
@@ -996,9 +1698,9 @@
     "rating": 5.0,
     "text": "maravillosa.",
     "language": "es",
-    "date": "2026-04-24T13:27:41",
+    "date": "2026-04-24T16:27:41",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831212"
+    "collected_at": "2026-05-23T23:31:35.517746"
   },
   {
     "review_id": "gp_5e4e94c8-b07b-4eda-b8f0-7cc6eb9f424d",
@@ -1009,9 +1711,9 @@
     "rating": 5.0,
     "text": "El trato muy bien , y bien aconsejado, sali de la tienda con una bici eléctrica, todo genial pero si cuando hay compras altas , un detalle tampoco vendría de menos ..",
     "language": "es",
-    "date": "2026-04-23T10:47:21",
+    "date": "2026-04-23T13:47:21",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831215"
+    "collected_at": "2026-05-23T23:31:35.517748"
   },
   {
     "review_id": "gp_eed827a7-820a-4f5f-83ff-db3652627ae8",
@@ -1022,9 +1724,9 @@
     "rating": 5.0,
     "text": "todo perfecto",
     "language": "es",
-    "date": "2026-04-22T14:18:53",
+    "date": "2026-04-22T17:18:53",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831216"
+    "collected_at": "2026-05-23T23:31:35.517750"
   },
   {
     "review_id": "gp_0283f122-59be-4eea-8d8b-332de6cbc522",
@@ -1035,9 +1737,9 @@
     "rating": 1.0,
     "text": "Pésima experiencia. Venden productos de terceros sabiendo que están incompletos; en mi caso, un artículo que necesitaba tornillería específica y sabían de antemano que no tenían existencias de esos tornillos. Su única respuesta es que 'no es su marca' y ofrecer la devolución, pero el problema y la pérdida de tiempo te los comes tú. Se lavan las manos y te dejan colgado con un producto inservible. Además, la app es muy poco intuitiva.\"",
     "language": "es",
-    "date": "2026-04-22T08:13:18",
+    "date": "2026-04-22T11:13:18",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831218"
+    "collected_at": "2026-05-23T23:31:35.517752"
   },
   {
     "review_id": "gp_7e9bb53b-dd19-4535-bb78-6799a299f056",
@@ -1048,9 +1750,9 @@
     "rating": 5.0,
     "text": "excelente tienda.",
     "language": "es",
-    "date": "2026-04-21T14:34:00",
+    "date": "2026-04-21T17:34:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831219"
+    "collected_at": "2026-05-23T23:31:35.517754"
   },
   {
     "review_id": "gp_6e648c55-9ff0-474c-be9d-2ab20cbb71f4",
@@ -1061,9 +1763,9 @@
     "rating": 5.0,
     "text": "Mi experiencia ha sido muy satisfactoria , prácticamente como siempre. Tuve un problema con un reloj Coros y Laura de la tienda situada en la Maquinista y en el turno de la mañana, me atendió super bien, al final decidimos cambiar el reloj y no hubo problema ninguno. Felicito a Laura por su entrega y dedicación al intentar solucionar un problema que no tenía solución. Gracias Laura.",
     "language": "es",
-    "date": "2026-04-21T06:23:57",
+    "date": "2026-04-21T09:23:57",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831221"
+    "collected_at": "2026-05-23T23:31:35.517756"
   },
   {
     "review_id": "gp_9d4f5354-fae5-49c5-8556-a8aad83323a3",
@@ -1074,9 +1776,425 @@
     "rating": 1.0,
     "text": "No sube los ejercicios ni de Garmin ni de Strava, para poder sumar puntos. decepcionado",
     "language": "es",
-    "date": "2026-04-20T16:53:08",
+    "date": "2026-04-20T19:53:08",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:23.831222"
+    "collected_at": "2026-05-23T23:31:35.517757"
+  },
+  {
+    "review_id": "gp_dd4b4ea3-74e5-4956-8eb0-56667313dc66",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "excelente aplicación.",
+    "language": "es",
+    "date": "2026-04-20T11:46:33",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517759"
+  },
+  {
+    "review_id": "gp_fea4d0bd-1bfc-4d3c-bb40-6439a6f74172",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "Złożyłam zamówienie kilka minut temu. Zapłaciłam przez PayPo i zostało ono przetworzone w aplikacji PayPo, ale kiedy wróciłam do aplikacji Decathlon, zamówienie nadal wyświetla się jako nieprzetworzone. 😡 Próbowałam dzwonić i powiedziano mi, że mogę dzwonić do 17:00, bo jest weekend, ale chociaż do 17:00 (według ich deklaracji pracy) zostało jeszcze pół godziny, kazali mi zadzwonić jutro. To niegrzeczne, bo przecież nie kupuję tylko kilku drobiazgów.",
+    "language": "es",
+    "date": "2026-04-19T14:54:17",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517761"
+  },
+  {
+    "review_id": "gp_accb7f81-1b63-41ad-bc06-9fa1d68787b5",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "no funciona, no me deja iniciar sesión, error 404, no puedo usar mis puntos que fiasco ! denle soporte a su app",
+    "language": "es",
+    "date": "2026-04-18T04:41:40",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517763"
+  },
+  {
+    "review_id": "gp_86960266-88c1-4751-87d0-593abe954e18",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "tienen todo lo que buscas y a buen precio",
+    "language": "es",
+    "date": "2026-04-17T18:14:40",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517764"
+  },
+  {
+    "review_id": "gp_b2d1d9eb-4588-4c1f-8a71-3e7dffbf771b",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "la aplicación falla demasiado, quiero poder comprar unas cosas y no me deja avanzar más allá del carrito, después intento modificar la dirección de envío y me marca error, tratas de pedir asistencia y solo mandas un correo que nunca contestan.",
+    "language": "es",
+    "date": "2026-04-17T16:38:39",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517766"
+  },
+  {
+    "review_id": "gp_29e576df-a63a-4ec9-ab9b-282895bfc42b",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 3.0,
+    "text": "APK normal, poco usada.",
+    "language": "es",
+    "date": "2026-04-16T13:35:20",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517768"
+  },
+  {
+    "review_id": "gp_8e7262b2-23f0-4c46-89dd-14e894ee872c",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "súper buena y fácil de usar",
+    "language": "es",
+    "date": "2026-04-16T13:22:56",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517770"
+  },
+  {
+    "review_id": "gp_402c16bd-7336-47ef-92dc-b3086b3e91df",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "muy práctica",
+    "language": "es",
+    "date": "2026-04-16T00:53:26",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517771"
+  },
+  {
+    "review_id": "gp_78545cf2-8758-428d-8b7b-1b93fc0ebedc",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "No se puede buscar un articulo en compras realizadas, hay que bajar hasta la fecha y no es cómodo. Para hacer una devolución no es fàcil, es decir nada intuitivo. En los pedidos pone que un articulo ha sigo enviado el 11 de mayo y hoy es 5 de mayo... a ver quién lo entiende. Nada mejor usar la versión web.",
+    "language": "es",
+    "date": "2026-04-15T18:10:47",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517773"
+  },
+  {
+    "review_id": "gp_225273f7-ebf9-4504-8e08-9b3da2f02b4f",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "Lamentable experiencia con esta aplicación, guardas todos los productos que te gustan para más tarde y al borrar uno desde la cesta 🧺 de la compra, se borran todos!!. Seguramente porque no cuidarán económicamente a sus informáticos. Pues cosas que iba a comprar y ya no puedo... Además tb te añaden productos a tus me gusta que tú no has pedido, invadiendo tus gustos personales para confundirte.",
+    "language": "es",
+    "date": "2026-04-15T02:00:50",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517775"
+  },
+  {
+    "review_id": "gp_6ea76c78-778e-481c-bf6e-17ff773270b3",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "Me encanta y todos sus empleados son muy amables y atentos",
+    "language": "es",
+    "date": "2026-04-14T10:50:13",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517777"
+  },
+  {
+    "review_id": "gp_78970cc3-79d6-4c05-afa8-e5bd1e27ecbd",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "solo decir es fantástico ,todo pensado y todo se encuentra allí ,calidad precio ,todo lo que compro es práctico y resulta buenisimo y los chicos son muy amables y serviciales",
+    "language": "es",
+    "date": "2026-04-13T22:27:54",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517778"
+  },
+  {
+    "review_id": "gp_120857b5-1131-497d-a344-81d655c49688",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "Experiencia pésima, imposible logearme en la aplicación, en navegador sin problemas, luego la aplicación no funciona. Al intentar logearme, me dice el famoso 404 not found. Procedo a desinstalar. Una vez que he desinstalado y he vuelto a instalar, funciona sin problemas y ni he tenido que logearme, lo ha hecho la aplicación sola, misterios...., no le subo la valoración, esto no puede pasar.",
+    "language": "es",
+    "date": "2026-04-13T19:40:26",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517781"
+  },
+  {
+    "review_id": "gp_0edf9b4f-c124-4108-8e7e-11f4f4f5071b",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "la logistica malisima pague por un envio de un dia tendria que haber llegado el sabado y hoy lunes sin ningun motivo despues de estar en reparto de repente estando en casa llega un correo donde directamente cambian la fecha de entrega para el martes nadie se puso en contacto conmigo lo cambiaron sin mas si te envian algo que hayas comprado online y es la empresa paack hechate a temblar y decathlon no da explicaciones de nada solo repite lo mismo que veo en la pagina no les interesa los clientes",
+    "language": "es",
+    "date": "2026-04-13T15:28:53",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517782"
+  },
+  {
+    "review_id": "gp_2eebb859-2b25-44f5-b7d9-96ec5428bfe7",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 4.0,
+    "text": "resueltos los problemas de acumular puntos y viendo que es fácil comprar y buscar artículos, actualizo la valoracion",
+    "language": "es",
+    "date": "2026-04-12T18:47:59",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517784"
+  },
+  {
+    "review_id": "gp_07779584-6765-4e28-bc4a-1ff74015faa2",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "No funciona. No he podido concretar una compra. Cada vez que clickeo \"confirmar\" el carrito me enlaza a la pág de entrada de la versión web y no sé cómo proseguir ya que en la web mi carrito aparece vacío. Cuando intento acceder al carrito en la web me arroja \"error 500\" y eso que hoy estuve en la tienda física y ahí mismo me instaron a usar la app, yo sólo la usaba como para mirar el catálogo de productos y debí dejarla solo para eso y comprar en la tienda. DESILUSIONADA",
+    "language": "es",
+    "date": "2026-04-12T03:51:47",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517786"
+  },
+  {
+    "review_id": "gp_6b895a9d-d7a8-436b-b2d5-33e5ffdafc09",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "Calidad/precio",
+    "language": "es",
+    "date": "2026-04-11T17:24:01",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517788"
+  },
+  {
+    "review_id": "gp_ea182780-1adc-4d07-b831-2be96fc76ef8",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "facilita mucho tener conocimiento sobre el stock de muchos productos muy bien ordenado",
+    "language": "es",
+    "date": "2026-04-11T05:39:58",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517789"
+  },
+  {
+    "review_id": "gp_40ffd5d5-bd33-4945-b6e2-1b7a35e2dec7",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "me encanto la tienda no así los que atiende son muy despreocupado cuando uno les pregunta algo de la tienda.",
+    "language": "es",
+    "date": "2026-04-11T00:50:55",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517804"
+  },
+  {
+    "review_id": "gp_6f2d4501-c182-46ed-ac4f-da31f77c0642",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "visitar sus tiendas de manera presencial es un gran placer. sus colaboradores son amables y siempre atentos a nuestras preguntas!",
+    "language": "es",
+    "date": "2026-04-10T11:53:35",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517807"
+  },
+  {
+    "review_id": "gp_9aadb273-e73b-4fe3-b6bf-c6b533b26d2d",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "es muy fácil navegar para identificar el producto que se esta buscando",
+    "language": "es",
+    "date": "2026-04-08T14:10:32",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517809"
+  },
+  {
+    "review_id": "gp_d76fe12b-929e-4f18-9ad6-9c55069f9310",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 4.0,
+    "text": "es un tanto inestable",
+    "language": "es",
+    "date": "2026-04-08T00:26:18",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517811"
+  },
+  {
+    "review_id": "gp_421f1fd7-5c89-4820-b785-bdd4a39f5164",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "Las reseñas de esta app están manipuladas. Todas de 4.5 para arriba. Cuando pones una reseña negativa, desaparece o no te dejan ponerla.",
+    "language": "es",
+    "date": "2026-04-07T21:54:58",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517813"
+  },
+  {
+    "review_id": "gp_c3775dcf-f198-4eca-b84f-95cfd42ae80d",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "No se puede comprar en línea, o sea solo si deseas recoger en alguna tienda física de nada sirve si deseas que llegue a casa.",
+    "language": "es",
+    "date": "2026-04-07T18:01:21",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517815"
+  },
+  {
+    "review_id": "gp_a569318a-1391-4551-99e0-314ca6c94a86",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "DE MOMENTO VA BIEN.",
+    "language": "es",
+    "date": "2026-04-06T10:26:27",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517817"
+  },
+  {
+    "review_id": "gp_96fbb033-9f61-486a-bddf-8e43d5947814",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "bastante completa e intuitiva",
+    "language": "es",
+    "date": "2026-04-05T14:21:55",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517819"
+  },
+  {
+    "review_id": "gp_f57a19af-bd2b-4361-a66a-f8bc10a9b375",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "La aplicación es muy útil para saber el stock en las diferentes tiendas Decathlon y para estar al dia del material que tienen.",
+    "language": "es",
+    "date": "2026-04-05T11:34:15",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517821"
+  },
+  {
+    "review_id": "gp_a67786e1-210d-479c-99ae-3189f551d06a",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "me encanta ,todo está muy identificado y ordenado. muy buena ubicación, personal muy atento y dispuestos para informar en todo momento. Buenos precios y una marca muy buena. puedes obtener todo el material de deporte q necesites y el q no tengan en stock te lo facilitan en brevedad. Tienen venta online. canjear tus puntos por descuentos. su venta está dispuesta para todo tipo de público y de todas las edades. material de alta calidad. pasar por sus instalaciones y disfrutar de un día estupendo..",
+    "language": "es",
+    "date": "2026-03-25T22:49:55",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517823"
+  },
+  {
+    "review_id": "gp_3f48fd7f-dfa3-4eb5-8df1-6adcd7336765",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 5.0,
+    "text": "Me encanta tienes d todo lo q buscas en el mismo sitio. Aunq no siempre te atienden bien a mi me merece la pena volver.",
+    "language": "es",
+    "date": "2026-03-25T08:09:29",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517825"
+  },
+  {
+    "review_id": "gp_d316b778-09d6-4513-a908-3ffb93b18110",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "No recomendable, venden con proveedores y luego solo generan problemas a los cuales no dan solución, unas zapatillas recién compradas sin cartones ni nada, de haber sido usadas lamentable. Primera y ultima vez que compro",
+    "language": "es",
+    "date": "2026-03-23T13:12:25",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517827"
+  },
+  {
+    "review_id": "gp_6ea7b7c6-4f4a-4c85-925b-58f84747d742",
+    "source": "google_play",
+    "store_id": "app_es",
+    "store_name": "Decathlon App (Espanha)",
+    "store_city": "Espanha",
+    "rating": 1.0,
+    "text": "estafadores. me mandan un email para que rellene un formulario y que me Dan 5€ y después de tirarme 30minutos rellenando el cuestionario no me han dado los 5€",
+    "language": "es",
+    "date": "2026-03-22T14:34:49",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:35.517829"
+  },
+  {
+    "review_id": "gp_51fe1acf-5e48-4c2d-ae07-d0d2a9922799",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "A aplicação é muito útil para mim que vivo na aldeia, longe da loja. Assim posso saber que equipamentos têm, preço, etc... assim faço as minhas escolhas tranquilamente e depois posso encomendar online ou passar pela loja física se preferir. Fácil de utilizar e os programa de pontos é interessante.",
+    "language": "pt",
+    "date": "2026-05-17T18:14:57",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291455"
   },
   {
     "review_id": "gp_9657d3c7-b453-4b92-beb2-88dca7652a30",
@@ -1087,9 +2205,9 @@
     "rating": 1.0,
     "text": "Após fazer download e tentar fazer \"login ou criar conta\", aparece uma página de erro. Uma app que não serve para nada",
     "language": "pt",
-    "date": "2026-05-16T07:12:06",
+    "date": "2026-05-16T10:12:06",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313969"
+    "collected_at": "2026-05-23T23:31:38.291459"
   },
   {
     "review_id": "gp_7ca57bf1-183e-406a-b4a0-d449a716e4c6",
@@ -1100,9 +2218,9 @@
     "rating": 5.0,
     "text": "Boa prestação de serviços",
     "language": "pt",
-    "date": "2026-05-15T03:34:31",
+    "date": "2026-05-15T06:34:31",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313974"
+    "collected_at": "2026-05-23T23:31:38.291461"
   },
   {
     "review_id": "gp_4cb89877-5afc-4757-8b32-2d54b4f979fa",
@@ -1113,9 +2231,9 @@
     "rating": 5.0,
     "text": "Bem estruturada, uso muitas vezes. Adoro as vantagens dos pontos e sincronização com o desporto que fazemos.",
     "language": "pt",
-    "date": "2026-05-13T16:19:48",
+    "date": "2026-05-13T19:19:48",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313978"
+    "collected_at": "2026-05-23T23:31:38.291463"
   },
   {
     "review_id": "gp_c956ed7c-aaf0-458c-8f80-8d2930868f72",
@@ -1126,9 +2244,9 @@
     "rating": 5.0,
     "text": "muito fácil",
     "language": "pt",
-    "date": "2026-05-12T06:35:39",
+    "date": "2026-05-12T09:35:39",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313980"
+    "collected_at": "2026-05-23T23:31:38.291465"
   },
   {
     "review_id": "gp_e8b768b2-98ce-4c27-b010-a344a5dfea50",
@@ -1139,9 +2257,9 @@
     "rating": 3.0,
     "text": "já foi melhor. deixou de fazer a conexão ao Strava. já reiniciei a APP, o telemóvel, mas a falha continua recorrente. o que é pena porque vai contra o que anunciam do programa de pontos",
     "language": "pt",
-    "date": "2026-05-11T16:45:26",
+    "date": "2026-05-11T19:45:26",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313983"
+    "collected_at": "2026-05-23T23:31:38.291467"
   },
   {
     "review_id": "gp_e8e312bc-311e-4c8a-aeca-b904aecfbdf6",
@@ -1152,9 +2270,9 @@
     "rating": 1.0,
     "text": "Mesmo após limpeza de cache, ou reinicialização do telemóvel, erro na aplicação persiste. Está a ocupar espaço, daí resta desinstalar.",
     "language": "pt",
-    "date": "2026-05-06T19:50:48",
+    "date": "2026-05-06T22:50:48",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313985"
+    "collected_at": "2026-05-23T23:31:38.291469"
   },
   {
     "review_id": "gp_3940ecd7-b81f-4850-8e64-396b90822af8",
@@ -1165,9 +2283,9 @@
     "rating": 1.0,
     "text": "não consigo fazer login quando tenho o Firefox como browser predefinido",
     "language": "pt",
-    "date": "2026-05-06T01:00:09",
+    "date": "2026-05-06T04:00:09",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313988"
+    "collected_at": "2026-05-23T23:31:38.291471"
   },
   {
     "review_id": "gp_450f436b-5e5c-44c7-be41-835a845e491a",
@@ -1178,9 +2296,9 @@
     "rating": 5.0,
     "text": "Muito intuitivo!",
     "language": "pt",
-    "date": "2026-05-04T03:24:48",
+    "date": "2026-05-04T06:24:48",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313991"
+    "collected_at": "2026-05-23T23:31:38.291473"
   },
   {
     "review_id": "gp_b49e949a-676a-4420-a2c7-18b35e79abde",
@@ -1191,9 +2309,9 @@
     "rating": 4.0,
     "text": "bem concebido",
     "language": "pt",
-    "date": "2026-05-03T12:45:11",
+    "date": "2026-05-03T15:45:11",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313993"
+    "collected_at": "2026-05-23T23:31:38.291475"
   },
   {
     "review_id": "gp_6245babf-44c5-44cf-aea3-f8b9c8ae8813",
@@ -1204,9 +2322,9 @@
     "rating": 5.0,
     "text": "Uma APP muito completa e intuitiva. Em destaque a possibilidade de adquirir artigos online ou na loja mais próxima. Programa de fidelidade e carteira para gestão de pontos e cartões de oferta.",
     "language": "pt",
-    "date": "2026-05-01T15:20:09",
+    "date": "2026-05-01T18:20:09",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313996"
+    "collected_at": "2026-05-23T23:31:38.291477"
   },
   {
     "review_id": "gp_ff14d06a-8cfd-45bf-840c-bb67c96ec29f",
@@ -1217,9 +2335,9 @@
     "rating": 5.0,
     "text": "muito fixe, encontras de tudo",
     "language": "pt",
-    "date": "2026-04-30T17:39:08",
+    "date": "2026-04-30T20:39:08",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.313999"
+    "collected_at": "2026-05-23T23:31:38.291479"
   },
   {
     "review_id": "gp_7cc7933c-130f-41e5-8fd2-d0996fb70106",
@@ -1230,9 +2348,9 @@
     "rating": 5.0,
     "text": "decathlon É prática e eficaz",
     "language": "pt",
-    "date": "2026-04-29T17:49:00",
+    "date": "2026-04-29T20:49:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314002"
+    "collected_at": "2026-05-23T23:31:38.291480"
   },
   {
     "review_id": "gp_c687dea1-a536-4cf0-9784-17f5bd40423c",
@@ -1243,9 +2361,9 @@
     "rating": 5.0,
     "text": "Simples e intuitiva.",
     "language": "pt",
-    "date": "2026-04-26T13:44:04",
+    "date": "2026-04-26T16:44:04",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314004"
+    "collected_at": "2026-05-23T23:31:38.291482"
   },
   {
     "review_id": "gp_cbec8bef-5dc0-4dff-9c44-5286f58b7559",
@@ -1256,9 +2374,9 @@
     "rating": 5.0,
     "text": "variedade de produtos com qualidade",
     "language": "pt",
-    "date": "2026-04-24T21:49:27",
+    "date": "2026-04-25T00:49:27",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314006"
+    "collected_at": "2026-05-23T23:31:38.291484"
   },
   {
     "review_id": "gp_3954f0b8-c5e0-490c-85c5-f9c58d49f490",
@@ -1269,9 +2387,9 @@
     "rating": 5.0,
     "text": "Muito fácil de navegar com ótimos artigos.",
     "language": "pt",
-    "date": "2026-04-24T11:39:00",
+    "date": "2026-04-24T14:39:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314009"
+    "collected_at": "2026-05-23T23:31:38.291486"
   },
   {
     "review_id": "gp_fb7cd0ce-cb42-4bf6-99ac-06af242e0cb4",
@@ -1282,9 +2400,9 @@
     "rating": 1.0,
     "text": "Não consigo fazer log in na app e portanto não consigo usar cupões, pontos, etc... Dá um erro qualquer interno do servidor Por favor componham",
     "language": "pt",
-    "date": "2026-04-24T08:48:46",
+    "date": "2026-04-24T11:48:46",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314011"
+    "collected_at": "2026-05-23T23:31:38.291488"
   },
   {
     "review_id": "gp_07bd1233-0667-4f35-9833-69dfe911ee21",
@@ -1295,9 +2413,9 @@
     "rating": 5.0,
     "text": "top, muito prático para as encomendas online",
     "language": "pt",
-    "date": "2026-04-24T08:11:27",
+    "date": "2026-04-24T11:11:27",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314014"
+    "collected_at": "2026-05-23T23:31:38.291489"
   },
   {
     "review_id": "gp_cedbd4cb-430f-4641-84d7-dbb4aa8550be",
@@ -1308,9 +2426,9 @@
     "rating": 5.0,
     "text": "o melhor app de comprar para campismo",
     "language": "pt",
-    "date": "2026-04-16T06:07:51",
+    "date": "2026-04-16T09:07:51",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314016"
+    "collected_at": "2026-05-23T23:31:38.291491"
   },
   {
     "review_id": "gp_a35afe6a-eb55-4e62-aa33-d2f90290cbef",
@@ -1321,9 +2439,9 @@
     "rating": 5.0,
     "text": "bons produto",
     "language": "pt",
-    "date": "2026-04-14T11:56:19",
+    "date": "2026-04-14T14:56:19",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314019"
+    "collected_at": "2026-05-23T23:31:38.291493"
   },
   {
     "review_id": "gp_847376fd-14fa-4dff-a91c-a3066f837401",
@@ -1334,9 +2452,9 @@
     "rating": 2.0,
     "text": "Apresenta vários problemas e funcionalidades incompletas. Organização da aplicação não está muito fácil de utilizar.",
     "language": "pt",
-    "date": "2026-04-07T06:26:34",
+    "date": "2026-04-07T09:26:34",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314021"
+    "collected_at": "2026-05-23T23:31:38.291495"
   },
   {
     "review_id": "gp_456663d5-219b-49d4-b65e-85fa253e3fd7",
@@ -1347,9 +2465,9 @@
     "rating": 1.0,
     "text": "app não funciona em todos os dispositivos.",
     "language": "pt",
-    "date": "2026-04-04T11:33:27",
+    "date": "2026-04-04T14:33:27",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314024"
+    "collected_at": "2026-05-23T23:31:38.291497"
   },
   {
     "review_id": "gp_7317e62e-ceab-4ee0-8452-5c6c87496fac",
@@ -1360,9 +2478,9 @@
     "rating": 5.0,
     "text": "Sempre um optimo trabalho, e excelentes produtos 5* recomendo sempre",
     "language": "pt",
-    "date": "2026-04-04T00:07:50",
+    "date": "2026-04-04T03:07:50",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314026"
+    "collected_at": "2026-05-23T23:31:38.291498"
   },
   {
     "review_id": "gp_16709446-215a-4f65-968f-99e6b379669e",
@@ -1373,9 +2491,9 @@
     "rating": 5.0,
     "text": "Muito bom para fazer compras quando estamos longe etc",
     "language": "pt",
-    "date": "2026-03-31T15:50:33",
+    "date": "2026-03-31T18:50:33",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314029"
+    "collected_at": "2026-05-23T23:31:38.291500"
   },
   {
     "review_id": "gp_406d806a-5f28-4e0c-8478-858612fc13f0",
@@ -1386,9 +2504,9 @@
     "rating": 5.0,
     "text": "Tudo o que tenho comprado, tem vindo c/a previsão indicada, método de pagamento muito fácil, mesmo com os vouchers. Super recomendo",
     "language": "pt",
-    "date": "2026-03-18T11:26:13",
+    "date": "2026-03-18T14:26:13",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314031"
+    "collected_at": "2026-05-23T23:31:38.291502"
   },
   {
     "review_id": "gp_3808df3f-5ff4-425c-ab9e-8ac04773011f",
@@ -1399,9 +2517,9 @@
     "rating": 5.0,
     "text": "muito bom boa descontos",
     "language": "pt",
-    "date": "2026-03-08T09:46:28",
+    "date": "2026-03-08T12:46:28",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314034"
+    "collected_at": "2026-05-23T23:31:38.291504"
   },
   {
     "review_id": "gp_9bd2ff65-1bd7-40bc-9840-fe92d58e4547",
@@ -1412,9 +2530,9 @@
     "rating": 5.0,
     "text": "App bem elaborado.",
     "language": "pt",
-    "date": "2026-03-04T11:33:12",
+    "date": "2026-03-04T14:33:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314036"
+    "collected_at": "2026-05-23T23:31:38.291506"
   },
   {
     "review_id": "gp_358c4af8-ac70-4943-a389-24633b06bb9a",
@@ -1425,9 +2543,9 @@
     "rating": 5.0,
     "text": "Voltaram a ter o método de pagamento via multibanco. Perfeito!!",
     "language": "pt",
-    "date": "2026-02-27T09:57:42",
+    "date": "2026-02-27T12:57:42",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314039"
+    "collected_at": "2026-05-23T23:31:38.291508"
   },
   {
     "review_id": "gp_5585a7f0-a079-4590-9213-e53a7c912401",
@@ -1438,9 +2556,9 @@
     "rating": 3.0,
     "text": "A aplicação não abre no ipad pro 11 m5.",
     "language": "pt",
-    "date": "2026-02-26T08:35:14",
+    "date": "2026-02-26T11:35:14",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314042"
+    "collected_at": "2026-05-23T23:31:38.291509"
   },
   {
     "review_id": "gp_1a03bad0-97bf-41d6-b58b-500171e930cf",
@@ -1451,9 +2569,9 @@
     "rating": 5.0,
     "text": "muito bom 😊",
     "language": "pt",
-    "date": "2026-02-25T13:22:32",
+    "date": "2026-02-25T16:22:32",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314044"
+    "collected_at": "2026-05-23T23:31:38.291511"
   },
   {
     "review_id": "gp_89c5e4c2-d6cc-4061-bc1a-824c93b7f452",
@@ -1464,9 +2582,9 @@
     "rating": 5.0,
     "text": "Melhor loja do mundo do desporto a preços acessíveis!",
     "language": "pt",
-    "date": "2026-02-24T10:54:27",
+    "date": "2026-02-24T13:54:27",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314046"
+    "collected_at": "2026-05-23T23:31:38.291513"
   },
   {
     "review_id": "gp_bb9956df-82fc-4e5a-a241-97f9173d3e10",
@@ -1477,9 +2595,9 @@
     "rating": 5.0,
     "text": "Bom artigo. Muita gentileza dos funcionários",
     "language": "pt",
-    "date": "2026-02-20T09:36:12",
+    "date": "2026-02-20T12:36:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314049"
+    "collected_at": "2026-05-23T23:31:38.291515"
   },
   {
     "review_id": "gp_85f02a58-b451-4398-90a1-1962c09cbc57",
@@ -1490,9 +2608,9 @@
     "rating": 5.0,
     "text": "Variedade, qualidade e ptofissionalismo.",
     "language": "pt",
-    "date": "2026-02-16T12:54:05",
+    "date": "2026-02-16T15:54:05",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314051"
+    "collected_at": "2026-05-23T23:31:38.291516"
   },
   {
     "review_id": "gp_de988edc-b031-4847-ac2a-677ff1bdd0bb",
@@ -1503,9 +2621,9 @@
     "rating": 5.0,
     "text": "muita variedade",
     "language": "pt",
-    "date": "2026-02-16T10:27:54",
+    "date": "2026-02-16T13:27:54",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314090"
+    "collected_at": "2026-05-23T23:31:38.291519"
   },
   {
     "review_id": "gp_bd46e7c5-8c42-48a0-a76f-f4625ab846b4",
@@ -1516,9 +2634,9 @@
     "rating": 2.0,
     "text": "Não se está a conseguir colocar o montante do vale. A utilização dos vales não é funcional. No processo de compra, um utilizador com log in feito tem que copiar antecipadamente os dados do cartão e o seu pin para poder utilizar um vale.",
     "language": "pt",
-    "date": "2026-02-15T21:57:28",
+    "date": "2026-02-16T00:57:28",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314104"
+    "collected_at": "2026-05-23T23:31:38.291521"
   },
   {
     "review_id": "gp_8869811d-733b-4c06-a5de-b934c316e862",
@@ -1529,9 +2647,9 @@
     "rating": 5.0,
     "text": "fácil de navegar.",
     "language": "pt",
-    "date": "2026-02-14T08:07:19",
+    "date": "2026-02-14T11:07:19",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314108"
+    "collected_at": "2026-05-23T23:31:38.291523"
   },
   {
     "review_id": "gp_642b0a0b-af74-46ff-b670-917803fe9a41",
@@ -1542,9 +2660,9 @@
     "rating": 5.0,
     "text": "Funciona bem",
     "language": "pt",
-    "date": "2026-02-13T19:24:30",
+    "date": "2026-02-13T22:24:30",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314111"
+    "collected_at": "2026-05-23T23:31:38.291524"
   },
   {
     "review_id": "gp_2f2b0bb8-d3f5-4871-a260-9bbb10138980",
@@ -1555,9 +2673,9 @@
     "rating": 5.0,
     "text": "Excelente! Muito funcional e fácil de encontrar, o que se procura.",
     "language": "pt",
-    "date": "2026-02-10T07:22:06",
+    "date": "2026-02-10T10:22:06",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314114"
+    "collected_at": "2026-05-23T23:31:38.291526"
   },
   {
     "review_id": "gp_9378eafd-9cab-4cc4-8b31-9b02db0b8af2",
@@ -1568,9 +2686,9 @@
     "rating": 5.0,
     "text": "muito fácil de usar",
     "language": "pt",
-    "date": "2026-02-09T18:55:06",
+    "date": "2026-02-09T21:55:06",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314118"
+    "collected_at": "2026-05-23T23:31:38.291528"
   },
   {
     "review_id": "gp_672593e4-b725-4d24-bb10-997764a3e0d1",
@@ -1581,9 +2699,9 @@
     "rating": 4.0,
     "text": "A app é muito boa para encontrar bons produtos, porém para saber mais dos \"passos\" das encomendas para ver se está \"ali ou aqui\" é uma parte que deveria ser mostrada.",
     "language": "pt",
-    "date": "2026-02-08T06:31:32",
+    "date": "2026-02-08T09:31:32",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314120"
+    "collected_at": "2026-05-23T23:31:38.291530"
   },
   {
     "review_id": "gp_fccbe142-e537-44b4-801c-0e66ed506bab",
@@ -1594,9 +2712,9 @@
     "rating": 3.0,
     "text": "não dá para ligar ao dispositivo. nem ao relógio nem à passadeira elétrica",
     "language": "pt",
-    "date": "2026-02-07T07:14:04",
+    "date": "2026-02-07T10:14:04",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314123"
+    "collected_at": "2026-05-23T23:31:38.291532"
   },
   {
     "review_id": "gp_c388cc05-a97e-4845-9f9c-7c5e0473d530",
@@ -1607,9 +2725,9 @@
     "rating": 1.0,
     "text": "a app não funciona. não abre.",
     "language": "pt",
-    "date": "2026-02-04T14:53:12",
+    "date": "2026-02-04T17:53:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314126"
+    "collected_at": "2026-05-23T23:31:38.291533"
   },
   {
     "review_id": "gp_13cc1cf7-602e-4c0d-85fc-ee575c85ca3b",
@@ -1620,9 +2738,594 @@
     "rating": 1.0,
     "text": "App está fechar ao tentar pesquisar, selecionar um produto",
     "language": "pt",
-    "date": "2026-02-04T13:19:02",
+    "date": "2026-02-04T16:19:02",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:27.314129"
+    "collected_at": "2026-05-23T23:31:38.291535"
+  },
+  {
+    "review_id": "gp_a5df7fd8-8c9c-4a39-9b6f-5382f41f84e9",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "fácil de utilizar",
+    "language": "pt",
+    "date": "2026-02-02T22:32:30",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291537"
+  },
+  {
+    "review_id": "gp_515682a8-8751-42e4-82a3-12c1488d98b8",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "muito boa para compras e sistema de stock",
+    "language": "pt",
+    "date": "2026-01-30T18:22:39",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291539"
+  },
+  {
+    "review_id": "gp_01a36547-30bd-473e-a235-8f0e829a5f3a",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "muito bom e bem atualizado.",
+    "language": "pt",
+    "date": "2026-01-25T21:09:25",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291541"
+  },
+  {
+    "review_id": "gp_0733eefc-5c53-45f2-be03-56b4c29bf9cb",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 4.0,
+    "text": "muito boa e fácil de utilizar esta versão",
+    "language": "pt",
+    "date": "2026-01-24T06:10:20",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291543"
+  },
+  {
+    "review_id": "gp_7db02c1c-b773-451b-8aa2-5ef932e4e1cc",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "ate agora esta a ser muito bom",
+    "language": "pt",
+    "date": "2026-01-22T18:14:14",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291544"
+  },
+  {
+    "review_id": "gp_e5a63971-7a19-4caa-9bb8-8ec3dbe87d64",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Com está última atualização ficou péssima",
+    "language": "pt",
+    "date": "2026-01-19T13:37:34",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291546"
+  },
+  {
+    "review_id": "gp_c3821ff8-becf-40ff-b4b4-05e2f7011692",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 1.0,
+    "text": "a APP que mais problemas dá no meu telemóvel. não faz login quando preciso dela e obriga-me a reinstalar, sincroniza com o Strava de vez em vez...",
+    "language": "pt",
+    "date": "2026-01-18T18:00:52",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291548"
+  },
+  {
+    "review_id": "gp_6b344131-3f0b-492a-97aa-29f56ce98267",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Praticar Desporto em troca recebo pontos 👍",
+    "language": "pt",
+    "date": "2026-01-15T20:23:43",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291550"
+  },
+  {
+    "review_id": "gp_76538a5c-f21d-4e89-8b7e-85c64edecdcb",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Uma aplicação intuitiva, simples e prática.",
+    "language": "pt",
+    "date": "2026-01-09T04:52:23",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291552"
+  },
+  {
+    "review_id": "gp_e6b07352-a1f3-4658-ae08-c3564c27b161",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Decathlon tem tudo 👍",
+    "language": "pt",
+    "date": "2026-01-07T18:22:12",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291554"
+  },
+  {
+    "review_id": "gp_773eb1a2-cac5-4193-b72f-206499fa9098",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Após várias tentativas de limpar memória, desinstalar e voltar a instalar, não consigo fazer login...",
+    "language": "pt",
+    "date": "2026-01-04T01:16:10",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291555"
+  },
+  {
+    "review_id": "gp_53a282e2-b191-445b-b28f-95e6c12b23c0",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "e top os preços dos produtos",
+    "language": "pt",
+    "date": "2025-12-29T14:59:10",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291557"
+  },
+  {
+    "review_id": "gp_36f489a6-56bc-4349-a229-89a7a28549dd",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "fantástica experiência de compra",
+    "language": "pt",
+    "date": "2025-12-22T12:01:33",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291559"
+  },
+  {
+    "review_id": "gp_4d616c80-efa9-48d0-8d42-a3e7142e3349",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 1.0,
+    "text": "tenho itens no carrinho faço o processo de pagamento e quando chega a mensagem com o código não funciona.",
+    "language": "pt",
+    "date": "2025-12-20T13:42:20",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291561"
+  },
+  {
+    "review_id": "gp_b8ec8362-0af7-410e-895c-f0e21185ed3c",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 2.0,
+    "text": "Quero a APP como estava! So quero ver artigos Decathlon da loja online ou física, não tenho nada que levar com artigos de marketplace! deixou de ser fiável ou útil para mim por esse motivo e vou desinstalar.",
+    "language": "pt",
+    "date": "2025-12-19T20:16:32",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291563"
+  },
+  {
+    "review_id": "gp_36086fc7-6a99-4c37-b75b-e94f61adb1fd",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "App bem organizada.",
+    "language": "pt",
+    "date": "2025-12-10T17:44:37",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291565"
+  },
+  {
+    "review_id": "gp_6c2a38b5-3f64-4005-9c58-a71fb3976de6",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "tive sempre bom atendimento !!!!!",
+    "language": "pt",
+    "date": "2025-12-08T20:05:16",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291567"
+  },
+  {
+    "review_id": "gp_a76a2320-8cc4-463c-acbb-73348d4ff4cb",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 1.0,
+    "text": "Há mais de três ano que não consigo aceder à Apo, e a vossa loja de Coimbra não tem tido o cuidado de resolver este problema técnico com a vossa aplicação. Muito estranho, mesmo muito estranho.",
+    "language": "pt",
+    "date": "2025-12-07T22:08:20",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291569"
+  },
+  {
+    "review_id": "gp_ce341662-922a-4cc0-85d4-593076cde8be",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 3.0,
+    "text": "e que tal conectar a app com o Health Connect / Google Fit?",
+    "language": "pt",
+    "date": "2025-12-07T18:15:19",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291570"
+  },
+  {
+    "review_id": "gp_7de7e936-9959-4b5b-a851-026bd0658325",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Funciona muito bem e muito intuitiva",
+    "language": "pt",
+    "date": "2025-12-05T23:28:55",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291574"
+  },
+  {
+    "review_id": "gp_d4092f71-86d1-4013-bb7d-e728252c038e",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 1.0,
+    "text": "apareceram notificações para fazer pagamentos ao abrir o calendário de Natal",
+    "language": "pt",
+    "date": "2025-12-05T13:03:06",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291576"
+  },
+  {
+    "review_id": "gp_6da7ee2d-42a7-4b4c-971e-55f08ebd9cdc",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "excelente na entrega e envio.. aconselho a fazer compras pela app.. chegou tudo conforme..",
+    "language": "pt",
+    "date": "2025-12-04T16:49:20",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291577"
+  },
+  {
+    "review_id": "gp_19b1a9a7-6946-416a-9725-a3cbdb3de7ac",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 2.0,
+    "text": "O calendário não funciona.",
+    "language": "pt",
+    "date": "2025-12-03T15:47:07",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291579"
+  },
+  {
+    "review_id": "gp_c791beaf-0545-457e-a5cd-11994547b254",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 3.0,
+    "text": "A app não permite seguir a encomenda online. Alguns produtos iguais em que apenas diferem na cor, encontram-se com descrições diferentes.",
+    "language": "pt",
+    "date": "2025-12-03T12:12:38",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291581"
+  },
+  {
+    "review_id": "gp_009fe6fc-fbe4-4106-be54-f337d1b227d7",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "muito prática e fácil de usar",
+    "language": "pt",
+    "date": "2025-12-03T08:25:43",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291583"
+  },
+  {
+    "review_id": "gp_5041967b-86ae-451d-8533-57b33bd22794",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 1.0,
+    "text": "não funciona",
+    "language": "pt",
+    "date": "2025-12-03T07:49:41",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291585"
+  },
+  {
+    "review_id": "gp_1154cb1a-8716-4cd0-8c37-976786852813",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Muito boa, produtos que procurava em loja já esgotados estão em loja online top",
+    "language": "pt",
+    "date": "2025-12-02T21:01:56",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291587"
+  },
+  {
+    "review_id": "gp_88331b44-3685-4219-8781-15f685d721a5",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Fácil de usar.",
+    "language": "pt",
+    "date": "2025-12-01T23:06:39",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291588"
+  },
+  {
+    "review_id": "gp_2af3d22b-653e-4351-8e3c-0696b790196e",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "Boa app, prática e precisa",
+    "language": "pt",
+    "date": "2025-11-29T10:16:08",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291590"
+  },
+  {
+    "review_id": "gp_9ef21c66-c8b2-4758-9c67-290c099c7411",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 2.0,
+    "text": "A APP em si não está mau, agora as categorias dos produtos estarem todas misturadas que uns produtos estão numa categoria que não pertence é que é irritante para encontrar algo. Metem pessoas competentes com minimamente bom senso e que percebem que coisas pertencem a qual categoria que isto assim há anos já mete nojo.",
+    "language": "pt",
+    "date": "2025-11-25T10:50:25",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291592"
+  },
+  {
+    "review_id": "gp_49f29f48-5928-4112-9730-14a552a3373a",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "I just have a thing to talk about. the over all app is great, but there are very few things that bug me. the other day I ordered a few items, and I really wanted to go to the store as if they didn't fit I could return them in the moment. I was really lost as in the app, I could only go for a click and collect or home delivery. only when I logged in the website I got the warning that some items are not available to be shipped to stores, what is really weird...",
+    "language": "pt",
+    "date": "2025-11-22T12:11:03",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291594"
+  },
+  {
+    "review_id": "gp_bf75d2c0-5b42-41d6-8209-ebf97d2b50a6",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "(Tudo resolvido , excelentes profissionais! ) Está com problema de login..ja limpei dados e sem sucesso. abre um navegador interno com uma mensagem \"login\" tudo preto (Resolvido após reinstalação da App). Agora tem um \"problema \" nao da para pagar com googlepay. Mensagem \"programador tem de incluir webpay na app\" algo assim do género",
+    "language": "pt",
+    "date": "2025-11-21T22:08:25",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291596"
+  },
+  {
+    "review_id": "gp_6867a29d-c387-4b09-ad6c-6e06e451c07d",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 1.0,
+    "text": "não se conseguem ver as imagens.",
+    "language": "pt",
+    "date": "2025-11-21T12:02:32",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291598"
+  },
+  {
+    "review_id": "gp_edeb0a93-8e87-4133-898b-69677e1ce55e",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 4.0,
+    "text": "Excelente.",
+    "language": "pt",
+    "date": "2025-11-17T19:41:50",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291600"
+  },
+  {
+    "review_id": "gp_28020048-9de7-4b60-80bb-82148c2bae4d",
+    "source": "google_play",
+    "store_id": "app_pt",
+    "store_name": "Decathlon App (Portugal)",
+    "store_city": "Portugal",
+    "rating": 5.0,
+    "text": "rápido e eficiênte",
+    "language": "pt",
+    "date": "2025-11-17T15:08:12",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:38.291602"
+  },
+  {
+    "review_id": "gp_f76a6fa8-290d-4d4e-9d9d-9873beabdea9",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "impossible de s identifier depuis des mises a jours récentes avec erreur technique sur le site web de login avec page inconnue",
+    "language": "fr",
+    "date": "2026-05-22T21:34:13",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365211"
+  },
+  {
+    "review_id": "gp_809d2dc7-70e4-4641-902a-2b42a9d6cb70",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "application facile et rapide",
+    "language": "fr",
+    "date": "2026-05-22T14:11:40",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365219"
+  },
+  {
+    "review_id": "gp_abf4b6b4-656a-4ada-8bd1-8b3ea410cda0",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "Me déconnecte sans que je l'aie demandé, ne retrouve pas mon compte et me propose directement d'en créer un nouveau sans me donner d'autre choix.",
+    "language": "fr",
+    "date": "2026-05-21T08:53:29",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365223"
+  },
+  {
+    "review_id": "gp_e5282096-261b-4332-a672-56e2833fabf4",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "Toujours impossible et pourtant j'ai réinstallé l'app",
+    "language": "fr",
+    "date": "2026-05-20T18:23:56",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365227"
+  },
+  {
+    "review_id": "gp_a3372ecd-ee70-41d9-8a0e-33fcf996c9b3",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Merci decathlon",
+    "language": "fr",
+    "date": "2026-05-19T12:22:45",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365231"
+  },
+  {
+    "review_id": "gp_713e9298-28ca-44a4-8a0f-a53ace0edaa2",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 3.0,
+    "text": "bien......",
+    "language": "fr",
+    "date": "2026-05-18T17:39:48",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365234"
+  },
+  {
+    "review_id": "gp_04ef25bd-dd8b-4a80-95d7-5142237e94f7",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 4.0,
+    "text": "Bonne application, dommage qu'on ne puisse pas filtrer les articles disponibles dans son magasin favori. Le choix de l'indicatif du téléphone ne fonctionne pas pour une commande.",
+    "language": "fr",
+    "date": "2026-05-18T08:29:25",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365238"
+  },
+  {
+    "review_id": "gp_5b5d3e83-02e4-4139-b439-9ed4183899dc",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "belle application merci decathlon",
+    "language": "fr",
+    "date": "2026-05-18T02:51:12",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365242"
+  },
+  {
+    "review_id": "gp_d2a4e25b-7e3a-4804-8d22-e886b70acaeb",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "non vi è la possibilità di cambiare il negozio preferito",
+    "language": "fr",
+    "date": "2026-05-17T21:21:53",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365245"
+  },
+  {
+    "review_id": "gp_19d01652-f421-4d50-a8cf-718412284689",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "une très bonne application",
+    "language": "fr",
+    "date": "2026-05-17T09:36:02",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365249"
   },
   {
     "review_id": "gp_f08ad754-a1f2-498a-b8d7-9ad12b0ae31d",
@@ -1633,9 +3336,9 @@
     "rating": 5.0,
     "text": "pas malle pour ne pas se déplacer et découvrir les nouveautés",
     "language": "fr",
-    "date": "2026-05-16T06:03:12",
+    "date": "2026-05-16T09:03:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467041"
+    "collected_at": "2026-05-23T23:31:42.365252"
   },
   {
     "review_id": "gp_ddba8e67-a00a-4c86-a5a3-7dd2dc94b1b7",
@@ -1646,9 +3349,9 @@
     "rating": 1.0,
     "text": "accès impossible sans identification",
     "language": "fr",
-    "date": "2026-05-15T17:39:10",
+    "date": "2026-05-15T20:39:10",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467046"
+    "collected_at": "2026-05-23T23:31:42.365255"
   },
   {
     "review_id": "gp_c0f13c07-e52b-4b64-aedb-fb92d779ca3f",
@@ -1659,9 +3362,9 @@
     "rating": 2.0,
     "text": "super j'ai perdu 300 point pour rien j’ai voulu prendre une récompense et après on me dit que je suis finalement pas éligible a la récompense alors que j'avais débloqué cet récompense",
     "language": "fr",
-    "date": "2026-05-15T02:55:23",
+    "date": "2026-05-15T05:55:23",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467048"
+    "collected_at": "2026-05-23T23:31:42.365258"
   },
   {
     "review_id": "gp_54d274d3-f5f8-44f4-b316-1d51e2098dd3",
@@ -1672,22 +3375,9 @@
     "rating": 5.0,
     "text": "incroyable",
     "language": "fr",
-    "date": "2026-05-14T18:44:34",
+    "date": "2026-05-14T21:44:34",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467051"
-  },
-  {
-    "review_id": "gp_11826701-739f-4969-a0fb-7e916a076bd2",
-    "source": "google_play",
-    "store_id": "app_fr",
-    "store_name": "Decathlon App (França)",
-    "store_city": "França",
-    "rating": 3.0,
-    "text": "merci de m'expliquer pourquoi en Europe , je dois faire la mise à jour via l application Décathlon Canada???",
-    "language": "fr",
-    "date": "2026-05-14T16:59:49",
-    "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467054"
+    "collected_at": "2026-05-23T23:31:42.365261"
   },
   {
     "review_id": "gp_420ad444-f182-4eff-88f6-c4518ae77054",
@@ -1698,9 +3388,9 @@
     "rating": 5.0,
     "text": "j aime bien",
     "language": "fr",
-    "date": "2026-05-14T10:22:50",
+    "date": "2026-05-14T13:22:50",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467056"
+    "collected_at": "2026-05-23T23:31:42.365265"
   },
   {
     "review_id": "gp_5896e489-8afe-43f5-b7c1-ecba98d5274f",
@@ -1711,9 +3401,9 @@
     "rating": 5.0,
     "text": "Bon chance",
     "language": "fr",
-    "date": "2026-05-13T21:45:04",
+    "date": "2026-05-14T00:45:04",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467058"
+    "collected_at": "2026-05-23T23:31:42.365269"
   },
   {
     "review_id": "gp_035c71df-bde8-420f-9ace-d9f5dd642b86",
@@ -1724,9 +3414,9 @@
     "rating": 5.0,
     "text": "je ne l'utilise pas assez à cause des mots de passe que je n'arrive toujours pas à faire les miens trop répétitif pour Google",
     "language": "fr",
-    "date": "2026-05-13T13:53:52",
+    "date": "2026-05-13T16:53:52",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467060"
+    "collected_at": "2026-05-23T23:31:42.365272"
   },
   {
     "review_id": "gp_c13ce197-ed6a-48b4-a755-fdd8d4e5a7e9",
@@ -1737,9 +3427,9 @@
     "rating": 2.0,
     "text": "pb sur l appli dégouté car ca fait 1 semaine que l appli ne fonctionne pas : elle me renvoie sur le site internet et me demande de me connecter. Que se passe t il ? cdlt julie",
     "language": "fr",
-    "date": "2026-05-12T10:32:26",
+    "date": "2026-05-12T13:32:26",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467062"
+    "collected_at": "2026-05-23T23:31:42.365277"
   },
   {
     "review_id": "gp_9469f9fb-abe3-4d50-8032-34cbf2a1a7a8",
@@ -1750,9 +3440,9 @@
     "rating": 1.0,
     "text": "j'ai été déconnectée sur l'appli du jour au lendemain et depuis j'essaie de me redonner sans succès ! erreur 404 not found",
     "language": "fr",
-    "date": "2026-05-12T08:38:04",
+    "date": "2026-05-12T11:38:04",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467064"
+    "collected_at": "2026-05-23T23:31:42.365280"
   },
   {
     "review_id": "gp_6c0e52ce-8c13-4510-b7db-dad101f27655",
@@ -1763,9 +3453,9 @@
     "rating": 2.0,
     "text": "odată adăugat un produs în coș nu mai poți schimba culoarea sau mărimea pantofului fără să adaugi alt produs identic și să îl ștergi pe cel vechi",
     "language": "fr",
-    "date": "2026-05-12T02:44:57",
+    "date": "2026-05-12T05:44:57",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467066"
+    "collected_at": "2026-05-23T23:31:42.365284"
   },
   {
     "review_id": "gp_fd812cf9-07f1-4a11-83d7-695c269eb39d",
@@ -1776,9 +3466,9 @@
     "rating": 5.0,
     "text": "très bien application",
     "language": "fr",
-    "date": "2026-05-12T01:00:54",
+    "date": "2026-05-12T04:00:54",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467068"
+    "collected_at": "2026-05-23T23:31:42.365288"
   },
   {
     "review_id": "gp_1a1bc434-1b23-46fb-92cc-af6c33f7f4ac",
@@ -1789,9 +3479,9 @@
     "rating": 2.0,
     "text": "application utilisée pendant plusieurs mois puis désinstallée car elle est moins pratique que le site . sur la fiche d'un produit il n'y a pas le lien vers les pièces détachées . lorsqu'on quitte l'application la fiche consultée n'est pas conservée. la navigation par sport et type de produit est moins intuitive.",
     "language": "fr",
-    "date": "2026-05-11T16:31:11",
+    "date": "2026-05-11T19:31:11",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467070"
+    "collected_at": "2026-05-23T23:31:42.365292"
   },
   {
     "review_id": "gp_b31897cd-084b-414f-b9ad-a9f676fd089c",
@@ -1802,9 +3492,9 @@
     "rating": 3.0,
     "text": "Ne synchronise qu'une fois sur trois mon appli suunto du coup les points ne sont pas pris en compte. Impossible de trouver juste les produits vendus en magasin et non vendus soit par internet ou par d'autres vendeurs. Bref",
     "language": "fr",
-    "date": "2026-05-11T12:21:43",
+    "date": "2026-05-11T15:21:43",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467072"
+    "collected_at": "2026-05-23T23:31:42.365295"
   },
   {
     "review_id": "gp_e95fce7f-f8e9-4ff6-a075-c8a4afdaa02c",
@@ -1815,9 +3505,9 @@
     "rating": 4.0,
     "text": "J'aime cette application surtout pour consulter des articles, quand au nombre de points je pense qu'il faut énormément de points pour que celà soit intéressant.",
     "language": "fr",
-    "date": "2026-05-11T00:56:07",
+    "date": "2026-05-11T03:56:07",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467074"
+    "collected_at": "2026-05-23T23:31:42.365301"
   },
   {
     "review_id": "gp_f6c7c6de-0c75-43b5-921b-e065e5c7fc71",
@@ -1828,9 +3518,9 @@
     "rating": 5.0,
     "text": "rien à dire aux tops décathlon",
     "language": "fr",
-    "date": "2026-05-10T20:32:23",
+    "date": "2026-05-10T23:32:23",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467076"
+    "collected_at": "2026-05-23T23:31:42.365304"
   },
   {
     "review_id": "gp_a886a4fb-0ba2-4cd5-b832-ca88d17bee96",
@@ -1841,9 +3531,9 @@
     "rating": 1.0,
     "text": "impossible d'acceder au site ...",
     "language": "fr",
-    "date": "2026-05-10T15:29:06",
+    "date": "2026-05-10T18:29:06",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467078"
+    "collected_at": "2026-05-23T23:31:42.365307"
   },
   {
     "review_id": "gp_525332e2-dd07-4b4b-9643-e1c4d6de94dd",
@@ -1854,9 +3544,9 @@
     "rating": 1.0,
     "text": "Ne fonctionne plus depuis fin avril, tous comme l'application coach. D'après les avis en ligne je ne suis clairement pas le seul. même avec mon smartphone neuf ça ne fonctionne pas.",
     "language": "fr",
-    "date": "2026-05-10T09:37:37",
+    "date": "2026-05-10T12:37:37",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467080"
+    "collected_at": "2026-05-23T23:31:42.365311"
   },
   {
     "review_id": "gp_a4200a44-75fe-4e4b-9eae-96ee4f225570",
@@ -1867,9 +3557,9 @@
     "rating": 1.0,
     "text": "lorsque j'essaie de me connecter à mon compte, l'application me redirige vers un page de connexion -> erreur 404. encore une fois decathlon se révèle très décevant niveau software",
     "language": "fr",
-    "date": "2026-05-10T07:58:16",
+    "date": "2026-05-10T10:58:16",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467082"
+    "collected_at": "2026-05-23T23:31:42.365314"
   },
   {
     "review_id": "gp_afe56e4d-2e9b-4994-b67a-2f5652df3689",
@@ -1880,9 +3570,9 @@
     "rating": 1.0,
     "text": "Tous mes anciens achats ont disparus.",
     "language": "fr",
-    "date": "2026-05-10T07:53:21",
+    "date": "2026-05-10T10:53:21",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467084"
+    "collected_at": "2026-05-23T23:31:42.365318"
   },
   {
     "review_id": "gp_5567f6f2-40ca-4bde-bb72-e4369f66732f",
@@ -1893,9 +3583,9 @@
     "rating": 1.0,
     "text": "l'appli ne se charge plus",
     "language": "fr",
-    "date": "2026-05-10T04:02:24",
+    "date": "2026-05-10T07:02:24",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467086"
+    "collected_at": "2026-05-23T23:31:42.365322"
   },
   {
     "review_id": "gp_fcd0d006-4b36-410e-b723-9ff21c98df85",
@@ -1906,9 +3596,9 @@
     "rating": 5.0,
     "text": "Super ,rien a dire",
     "language": "fr",
-    "date": "2026-05-10T03:05:16",
+    "date": "2026-05-10T06:05:16",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467088"
+    "collected_at": "2026-05-23T23:31:42.365326"
   },
   {
     "review_id": "gp_a0e4b629-6816-4137-aedf-f5f0e6758d15",
@@ -1919,9 +3609,9 @@
     "rating": 1.0,
     "text": "Erreur 404 sur l'application. Impossible d'en sortir. Réinstallation sans effet.",
     "language": "fr",
-    "date": "2026-05-09T03:28:18",
+    "date": "2026-05-09T06:28:18",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467090"
+    "collected_at": "2026-05-23T23:31:42.365330"
   },
   {
     "review_id": "gp_9f88ed1e-4e6a-40e4-9679-ce305763d91c",
@@ -1932,9 +3622,9 @@
     "rating": 3.0,
     "text": "Super appli facile d'utilisation tout y est !",
     "language": "fr",
-    "date": "2026-05-08T18:24:56",
+    "date": "2026-05-08T21:24:56",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467092"
+    "collected_at": "2026-05-23T23:31:42.365335"
   },
   {
     "review_id": "gp_033cfbb8-cbf5-43c0-8555-26385349fdeb",
@@ -1945,9 +3635,9 @@
     "rating": 5.0,
     "text": "Je suis tjrs satisfaite",
     "language": "fr",
-    "date": "2026-05-08T15:46:29",
+    "date": "2026-05-08T18:46:29",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467094"
+    "collected_at": "2026-05-23T23:31:42.365339"
   },
   {
     "review_id": "gp_f37f99f2-b5ad-43e5-b8a1-f17fe6f1c3e0",
@@ -1958,9 +3648,9 @@
     "rating": 1.0,
     "text": "Kein anmelden möglich mit Pixel 9. Unbrauchbar Update Fehler Beim Login erscheint Fehler 404 mit default browser Firefox Klar.",
     "language": "fr",
-    "date": "2026-05-08T07:34:00",
+    "date": "2026-05-08T10:34:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467097"
+    "collected_at": "2026-05-23T23:31:42.365343"
   },
   {
     "review_id": "gp_1ed1d2c8-b46c-41ce-b57d-34f3006ac2e2",
@@ -1971,9 +3661,9 @@
     "rating": 2.0,
     "text": "Manque de paramètres. Impossible d'effectuer un retour depuis l'application.",
     "language": "fr",
-    "date": "2026-05-07T13:56:44",
+    "date": "2026-05-07T16:56:44",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467099"
+    "collected_at": "2026-05-23T23:31:42.365348"
   },
   {
     "review_id": "gp_797e3926-e761-4940-8c5e-3e0c4b58d36d",
@@ -1984,9 +3674,9 @@
     "rating": 5.0,
     "text": "tout va bien avec décathlon",
     "language": "fr",
-    "date": "2026-05-06T17:20:37",
+    "date": "2026-05-06T20:20:37",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467101"
+    "collected_at": "2026-05-23T23:31:42.365352"
   },
   {
     "review_id": "gp_dc008367-e6de-4708-9521-717f59084221",
@@ -1997,9 +3687,9 @@
     "rating": 5.0,
     "text": "Chaîne majeure de produits d'entrée de gamme de qualité.",
     "language": "fr",
-    "date": "2026-05-06T09:43:20",
+    "date": "2026-05-06T12:43:20",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467103"
+    "collected_at": "2026-05-23T23:31:42.365356"
   },
   {
     "review_id": "gp_7f7fbf8e-252b-4b63-a369-403b538908e6",
@@ -2010,9 +3700,9 @@
     "rating": 4.0,
     "text": "You will find everything you need in your life and for your daily comfort",
     "language": "fr",
-    "date": "2026-05-06T05:48:32",
+    "date": "2026-05-06T08:48:32",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467105"
+    "collected_at": "2026-05-23T23:31:42.365360"
   },
   {
     "review_id": "gp_124a1520-113c-46e1-9241-a3d4b0725c33",
@@ -2023,9 +3713,9 @@
     "rating": 3.0,
     "text": "N'est plus compatible Android 9 :-( Dommage...",
     "language": "fr",
-    "date": "2026-05-05T16:10:23",
+    "date": "2026-05-05T19:10:23",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467107"
+    "collected_at": "2026-05-23T23:31:42.365364"
   },
   {
     "review_id": "gp_dbdd1fe0-e9de-44f0-b4e2-b953722f2713",
@@ -2036,9 +3726,9 @@
     "rating": 5.0,
     "text": "pratique quand on fait du sport avec de chouette récompense",
     "language": "fr",
-    "date": "2026-05-04T11:38:49",
+    "date": "2026-05-04T14:38:49",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467109"
+    "collected_at": "2026-05-23T23:31:42.365368"
   },
   {
     "review_id": "gp_432405a3-d865-43e7-8b43-f277f9d5215b",
@@ -2049,9 +3739,9 @@
     "rating": 4.0,
     "text": "mais j'ai un problème au programme de fidélité",
     "language": "fr",
-    "date": "2026-05-04T08:35:37",
+    "date": "2026-05-04T11:35:37",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467111"
+    "collected_at": "2026-05-23T23:31:42.365371"
   },
   {
     "review_id": "gp_09fd9117-2f40-4623-a883-6340374ef7fc",
@@ -2062,9 +3752,9 @@
     "rating": 5.0,
     "text": "super formidable",
     "language": "fr",
-    "date": "2026-05-04T05:56:47",
+    "date": "2026-05-04T08:56:47",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467113"
+    "collected_at": "2026-05-23T23:31:42.365375"
   },
   {
     "review_id": "gp_e5e500fa-922a-4682-8f50-5b80e8219e60",
@@ -2075,9 +3765,9 @@
     "rating": 5.0,
     "text": "simple et efficace",
     "language": "fr",
-    "date": "2026-05-03T08:11:00",
+    "date": "2026-05-03T11:11:00",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467115"
+    "collected_at": "2026-05-23T23:31:42.365378"
   },
   {
     "review_id": "gp_74626331-aa19-45fa-a8a2-0f1bdd2a970b",
@@ -2088,9 +3778,9 @@
     "rating": 5.0,
     "text": "utile et fiable !",
     "language": "fr",
-    "date": "2026-05-03T03:03:32",
+    "date": "2026-05-03T06:03:32",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467117"
+    "collected_at": "2026-05-23T23:31:42.365381"
   },
   {
     "review_id": "gp_4a417407-aa82-46ba-bf77-9ae13a75f6bf",
@@ -2101,9 +3791,9 @@
     "rating": 5.0,
     "text": "Très pratique, plus besoin de carte",
     "language": "fr",
-    "date": "2026-05-02T09:59:37",
+    "date": "2026-05-02T12:59:37",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467119"
+    "collected_at": "2026-05-23T23:31:42.365385"
   },
   {
     "review_id": "gp_c8cebccb-c5ac-46ab-8e55-8de5f0f4aeff",
@@ -2114,9 +3804,9 @@
     "rating": 1.0,
     "text": "envoi du code et bloqué, merci pour votre mise à jour",
     "language": "fr",
-    "date": "2026-05-02T04:03:40",
+    "date": "2026-05-02T07:03:40",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467121"
+    "collected_at": "2026-05-23T23:31:42.365388"
   },
   {
     "review_id": "gp_059d1422-c8d2-4de6-8959-a35acca2dc42",
@@ -2127,9 +3817,9 @@
     "rating": 5.0,
     "text": "Très bien! Merci!",
     "language": "fr",
-    "date": "2026-05-01T16:23:46",
+    "date": "2026-05-01T19:23:46",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467123"
+    "collected_at": "2026-05-23T23:31:42.365391"
   },
   {
     "review_id": "gp_39d77694-f47b-47d6-8583-8dba9ae8dc91",
@@ -2140,9 +3830,9 @@
     "rating": 5.0,
     "text": "jamais décue et facilité d'échanger.",
     "language": "fr",
-    "date": "2026-05-01T13:40:09",
+    "date": "2026-05-01T16:40:09",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467125"
+    "collected_at": "2026-05-23T23:31:42.365395"
   },
   {
     "review_id": "gp_f7ba68a9-3b76-48cd-a578-5dc22ae02e13",
@@ -2153,9 +3843,9 @@
     "rating": 3.0,
     "text": "Bonjour, l'application est géniale on peut y trouver tous les produits que l'on peut imaginer sur la pratique sportive. Cependant depuis quelque temps je n'arrive plus à lier mon compte Decathlon et cette application. Merci de votre retour pour y remédier",
     "language": "fr",
-    "date": "2026-05-01T11:55:30",
+    "date": "2026-05-01T14:55:30",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467127"
+    "collected_at": "2026-05-23T23:31:42.365399"
   },
   {
     "review_id": "gp_87b67dd5-f794-4c6a-b9ae-128a68d85637",
@@ -2166,9 +3856,9 @@
     "rating": 4.0,
     "text": "Je suis content de mes produits decathlon",
     "language": "fr",
-    "date": "2026-04-29T15:23:12",
+    "date": "2026-04-29T18:23:12",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467129"
+    "collected_at": "2026-05-23T23:31:42.365403"
   },
   {
     "review_id": "gp_43932a00-ec5a-46a9-91b6-1995f41b62de",
@@ -2179,9 +3869,9 @@
     "rating": 1.0,
     "text": "L'application m'envoie vers une page 404 no found.",
     "language": "fr",
-    "date": "2026-04-29T06:49:24",
+    "date": "2026-04-29T09:49:24",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467131"
+    "collected_at": "2026-05-23T23:31:42.365408"
   },
   {
     "review_id": "gp_00e5a352-6c60-4f18-97b9-d7553e30e016",
@@ -2192,8 +3882,411 @@
     "rating": 1.0,
     "text": "Cela fait plusieurs mois désormais qu'il est impossible de se connecter sur cette application. Où sont les développeurs ?",
     "language": "fr",
-    "date": "2026-04-29T05:01:02",
+    "date": "2026-04-29T08:01:02",
     "sport_category": "other",
-    "collected_at": "2026-05-17T17:00:31.467133"
+    "collected_at": "2026-05-23T23:31:42.365412"
+  },
+  {
+    "review_id": "gp_e4193e5b-bb1f-4b4e-adf6-46b9a0fc51bf",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "salut à tous, moi je suggère que Decathlon ouvre un magasin ici dans la ville de Man. il y a beaucoup de touristes qui visitent et qui font beaucoup de randonnée.",
+    "language": "fr",
+    "date": "2026-04-28T13:01:48",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365416"
+  },
+  {
+    "review_id": "gp_1667a935-d5d0-4f11-8bfe-568c52313739",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "excellent application",
+    "language": "fr",
+    "date": "2026-04-28T12:29:48",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365419"
+  },
+  {
+    "review_id": "gp_74804009-be4e-411e-8949-64f9cacdd8bd",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "excellent rapport qualité-prix",
+    "language": "fr",
+    "date": "2026-04-27T22:10:56",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365422"
+  },
+  {
+    "review_id": "gp_c938472d-2407-4d52-982e-980c9581ba6a",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "bien accueilli je fais toujours mes achats là-bas",
+    "language": "fr",
+    "date": "2026-04-27T19:14:29",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365426"
+  },
+  {
+    "review_id": "gp_634baa17-c35d-4b1b-b7a8-c54d3e5651fc",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Une excellente application.... j'ai acheté deux produits en ligne.... bonne continuation",
+    "language": "fr",
+    "date": "2026-04-26T16:01:00",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365429"
+  },
+  {
+    "review_id": "gp_b117a1ab-38cb-4297-9a13-5cbd39ca03e1",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "plus d'un mois qu'on me dit que des VTT XL (3 modèles de 250 à 700€) arrivent en stock en magasin et rien sur les quatre dans mon secteur (île de France) et le pire c'est qu'on me montre qu'il y a du stock aux dépôts. je me demande vraiment si vous êtes conscients des ventes perdues. et rien en stock en potence et cintre, bref tout est fait pour qu'on achète un vélo entier neuf mais ce n'est même pas dispo en magasin. tout vos produits viendraient d'Ukraine et d'Iran ?! 🫤",
+    "language": "fr",
+    "date": "2026-04-26T10:18:32",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365434"
+  },
+  {
+    "review_id": "gp_dc8d1616-8c01-43e5-b461-f7cd9a16b0dc",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "j'adore ce magasin parce que c'est un magasin de sport répond que tout trouvé dedans",
+    "language": "fr",
+    "date": "2026-04-25T14:56:37",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365437"
+  },
+  {
+    "review_id": "gp_f5a937fd-6b1a-4776-aa05-f00e59c09f0b",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 2.0,
+    "text": "impossible de lire le suivi car il ne fonctionne pas",
+    "language": "fr",
+    "date": "2026-04-25T07:30:38",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365441"
+  },
+  {
+    "review_id": "gp_8fdfe324-80c2-4336-afcf-1c687d0de29b",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Wonderful app with a great experience, deserves 5 stars.",
+    "language": "fr",
+    "date": "2026-04-23T11:40:43",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365451"
+  },
+  {
+    "review_id": "gp_ad1d45a8-98da-486d-aba8-bfa0f2199f66",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Merci Decathlon",
+    "language": "fr",
+    "date": "2026-04-23T07:45:29",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365455"
+  },
+  {
+    "review_id": "gp_28aa487c-ba4e-47be-8171-d0d1b2365d23",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "أحسن ماكان",
+    "language": "fr",
+    "date": "2026-04-21T17:16:11",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365460"
+  },
+  {
+    "review_id": "gp_52348aed-a310-4eb2-b738-bd644177e397",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "bonne application mais dommage fonctionne pas tout le temps pour valider ton panier",
+    "language": "fr",
+    "date": "2026-04-21T10:43:09",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365463"
+  },
+  {
+    "review_id": "gp_c7c6c924-31fc-4b81-b919-0add64cb282c",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "erreur 404 à la connexion...",
+    "language": "fr",
+    "date": "2026-04-21T08:15:04",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365466"
+  },
+  {
+    "review_id": "gp_2c2da7c6-0b55-440a-a31b-6115f522c9e3",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "non mais c'est quoi cette application ? Impossible d accéder à son compte , page blanche et rien d autre impossible de renseigner son identifiant et mot de passe .",
+    "language": "fr",
+    "date": "2026-04-20T16:03:21",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365470"
+  },
+  {
+    "review_id": "gp_3c2ff500-a678-4961-b31a-1d2d96cc57ef",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "impossible de se connecter page introuvable...404 not found . nginx. la page est vide.",
+    "language": "fr",
+    "date": "2026-04-20T14:18:07",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365474"
+  },
+  {
+    "review_id": "gp_954b27e4-8a2b-483a-9053-abde0b103402",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 4.0,
+    "text": "Bonjour, J'aime beaucoup votre appli, je l'utilise toutes les semaines. Par contre, j'étais sûre de m'être inscrite, au challenge Move and feel de ce mois d'avril, hier j'ai voulu vérifier si je l'avais terminé, mais je n'avais pas le petit encart bleu \"inscrit\" et il n'y avait rien dans les challenges terminés, du coup je me suis réinscrite et aujourd'hui j'ai un petit encart noir \"+null\".",
+    "language": "fr",
+    "date": "2026-04-20T07:51:11",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365477"
+  },
+  {
+    "review_id": "gp_2e6cfd6f-1770-4bfe-b886-c0848224cbf4",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "ne fonctionne pas sur un pixel 8 pro",
+    "language": "fr",
+    "date": "2026-04-19T16:56:54",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365481"
+  },
+  {
+    "review_id": "gp_abf6724e-0fdc-45db-ad2c-a522bc330d5b",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "ma trottinette électrique un devis pour voir le prix car elle n avance pas du tout quesquel. à",
+    "language": "fr",
+    "date": "2026-04-19T07:19:35",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365484"
+  },
+  {
+    "review_id": "gp_c399a0d5-2249-4c54-b3f4-e30f403178f3",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "application très bien",
+    "language": "fr",
+    "date": "2026-04-19T03:56:03",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365488"
+  },
+  {
+    "review_id": "gp_e4c1a8ad-79eb-49ff-9cc2-a9b82d2e82c0",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "Impossible de se connecter à mon compte et pas de réponse côté service client ! Au vu des notes cette appli a t'elle été abandonnée ?",
+    "language": "fr",
+    "date": "2026-04-18T14:25:04",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365492"
+  },
+  {
+    "review_id": "gp_ff69dec7-eacb-46d9-8d0a-cda8dc02089f",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Parfaitement cooool",
+    "language": "fr",
+    "date": "2026-04-17T21:59:03",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365496"
+  },
+  {
+    "review_id": "gp_2f2a7b82-7955-4f66-961d-69e3f053360c",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 2.0,
+    "text": "Application qui bug tout le temps. plusieurs problèmes liés aussi bien a l'appli qu'a decathlon: Depuis l'ouverture a la concurrence web on trouve des produits non vendus par Decathlon. devoir mettre un filtre vendeur c'est pénible. politie 0 stocks élitiste et difficile d'accéder aux articles choisis. Une section aide inutile et inaccessible sur l'appli : pour être averti d'un retour en stock impossible de demander un mail. Des produits encore en ligne alors qu'il en reste 1 seul en France....",
+    "language": "fr",
+    "date": "2026-04-17T10:23:40",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365500"
+  },
+  {
+    "review_id": "gp_d8b64145-8d6e-4f00-9c32-909e3436378f",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "أول منتوج إشتريته من عند Decathlon أنا جد راض",
+    "language": "fr",
+    "date": "2026-04-16T17:31:24",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365503"
+  },
+  {
+    "review_id": "gp_62fbd011-7dbf-466e-a3b0-e7cc0dec95e3",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 4.0,
+    "text": "bonne qualité, petit prix",
+    "language": "fr",
+    "date": "2026-04-15T19:30:26",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365507"
+  },
+  {
+    "review_id": "gp_b83dcd4f-90a8-45d0-8b71-f92494ceaaff",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "Pourquoi cette app s'appelle Décathlon Canada maintenant ? edit: j'ai reçu une réponse de leur part qui n'a ni queue ni tête... c'est la seule et unique app. de quoi ils parlent ? 🤡",
+    "language": "fr",
+    "date": "2026-04-15T13:45:03",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365511"
+  },
+  {
+    "review_id": "gp_d7ad3230-3dd8-4586-9736-33b4f05cc451",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Super application! Tout fonctionne très bien et des produits de qualités !",
+    "language": "fr",
+    "date": "2026-04-14T17:02:20",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365515"
+  },
+  {
+    "review_id": "gp_3474467f-c7a9-438e-9031-42433390d7e0",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "parfait pour moi",
+    "language": "fr",
+    "date": "2026-04-13T11:29:03",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365519"
+  },
+  {
+    "review_id": "gp_9765df9c-2ae2-43d7-9a54-32abd7f25d2f",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "une galère pour se connecter a chaque fois, surtout maintenant c'est simplement impossible, l'application essaie d'aller sur une page qui se retrouve en 404 et je n'ai aucune autre option. autre point , quand j'arrivais à me connecter avant et que je voulais aller voir la liste de mes anciens achats, les produits qui ne sont plus disponible disparaissent aussi de la liste d'achat ce qui n'a pas de sens j'aime bien le magasin en soi mais là ça fait trop longtemps que l'application m'embête",
+    "language": "fr",
+    "date": "2026-04-11T13:14:59",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365523"
+  },
+  {
+    "review_id": "gp_492d0275-3909-4374-80c7-d2f2dbddb81d",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Etant une adepte du sport, je recommande cette application. facile d'utilisation elle permet de trouver rapidement les produits personnalisés dont vous avez besoin ainsi qu'un panel d'applications idéal pour exercer une activité physique de manière adaptée.",
+    "language": "fr",
+    "date": "2026-04-11T13:09:09",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365527"
+  },
+  {
+    "review_id": "gp_c98bb93c-bdce-4ece-907e-cada0e8b62b7",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 1.0,
+    "text": "Login qui ne fonctionne pas si vous utilisez Firefox. Merci de bien vouloir corriger ce bug. Tout le monde n'utilise pas Chrome😟",
+    "language": "fr",
+    "date": "2026-04-11T10:14:32",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365531"
+  },
+  {
+    "review_id": "gp_d9a13125-697b-4cbf-a4bf-2f7ebef69561",
+    "source": "google_play",
+    "store_id": "app_fr",
+    "store_name": "Decathlon App (França)",
+    "store_city": "França",
+    "rating": 5.0,
+    "text": "Très bonne application mais la visualisation des stocks dans d'autres magasins ne fonctionne pas (rien ne se produit quand on appuie sur le bouton)",
+    "language": "fr",
+    "date": "2026-04-09T20:44:08",
+    "sport_category": "other",
+    "collected_at": "2026-05-23T23:31:42.365535"
   }
 ]
