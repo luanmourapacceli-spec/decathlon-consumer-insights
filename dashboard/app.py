@@ -93,6 +93,7 @@ if "show_sidebar" not in st.session_state:
 @st.cache_data(ttl=300)
 def load_data() -> pd.DataFrame:
     paths = [
+        "data/reviews_all_sources_classified_bert.json",
         "data/reviews_all_sources_classified.json",
         "data/reviews_all_sources_analyzed.json",
         "data/reviews_real_analyzed.json",
@@ -103,9 +104,10 @@ def load_data() -> pd.DataFrame:
         if os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 df = pd.DataFrame(json.load(f))
-            if "bert_label" in df.columns and "sentiment_label" not in df.columns:
+            # Sempre usa BERT quando disponível — mais preciso que TextBlob
+            if "bert_label" in df.columns:
                 df["sentiment_label"] = df["bert_label"]
-            if "bert_score" in df.columns and "sentiment_score" not in df.columns:
+            if "bert_score" in df.columns:
                 df["sentiment_score"] = df["bert_score"]
             df["date"] = pd.to_datetime(df["date"], errors="coerce")
             return df
