@@ -33,25 +33,80 @@ def classify_with_keywords(text: str) -> str:
     text_lower = text.lower()
 
     keywords = {
-        "running":      ["corrida", "correr", "running", "maratona", "tênis", "zapatilla"],
-        "cycling":      ["bicicleta", "bike", "ciclismo", "mtb", "cycling"],
-        "fitness":      ["academia", "musculação", "treino", "gym", "fitness", "legging", "camiseta"],
-        "hiking":       ["mochila", "trilha", "trekking", "hiking", "montanha", "senderismo"],
-        "swimming":     ["natação", "piscina", "swimming", "óculos de natação"],
-        "football":     ["futebol", "futsal", "chuteira", "gol", "fútbol", "soccer"],
-        "yoga":         ["yoga", "pilates", "meditação"],
-        "water_sports": ["kayak", "surf", "paddle", "vela"],
+        "running":      ["corrida", "correr", "running", "maratona", "tênis", "zapatilla",
+                         "jogging", "trail", "pace", "ritmo", "kilómetros", "km"],
+        "cycling":      ["bicicleta", "bike", "ciclismo", "mtb", "cycling", "vélo",
+                         "bici", "cadence", "pedalada", "velocipede"],
+        "fitness":      ["academia", "musculação", "treino", "gym", "fitness", "legging",
+                         "camiseta", "haltere", "supino", "agachamento", "muscu", "salle de sport"],
+        "hiking":       ["mochila", "trilha", "trekking", "hiking", "montanha", "senderismo",
+                         "randonnée", "escalada", "camping", "barraca", "rando"],
+        "swimming":     ["natação", "piscina", "swimming", "óculos de natação", "natacion",
+                         "nager", "piscine", "swimwear", "swim"],
+        "football":     ["futebol", "futsal", "chuteira", "gol", "fútbol", "soccer",
+                         "football", "ballon", "bola", "campo"],
+        "yoga":         ["yoga", "pilates", "meditação", "meditation", "flexibilidade"],
+        "water_sports": ["kayak", "surf", "paddle", "vela", "canoa", "windsurf", "kitesurf"],
         "app_delivery": ["app", "aplicativo", "entrega", "pedido", "cashback",
                          "pagamento", "suporte", "atendimento", "compra", "carrinho",
-                         "prazo", "frete", "devolução", "reembolso", "nota fiscal"],
+                         "prazo", "frete", "devolução", "reembolso", "nota fiscal",
+                         "application", "livraison", "commande", "paiement",
+                         "login", "connexion", "conectar", "senha", "cuenta",
+                         "compte", "mot de passe", "password", "bug", "crash",
+                         "lento", "trava", "freezing", "update", "atualização"],
     }
 
+    # Palavras-chave emocionais para reviews sem categoria de esporte
+    positive_emotions = [
+        # Português
+        "feliz", "contente", "satisfeito", "satisfeita", "ótimo", "ótima",
+        "excelente", "adorei", "amei", "perfeito", "perfeita", "incrível",
+        "recomendo", "parabéns", "top", "maravilhoso", "maravilhosa",
+        "fantástico", "fantástica", "bom", "boa", "gostei",
+        # Espanhol
+        "genial", "encantado", "encantada", "maravilloso", "fantástico",
+        "perfecto", "excelente", "increíble", "recomiendo", "feliz",
+        # Francês
+        "parfait", "excellent", "super", "bravo", "génial", "formidable",
+        "enchanté", "ravi", "satisfait",
+        # Inglês
+        "happy", "love", "great", "excellent", "perfect", "amazing",
+        "fantastic", "wonderful", "brilliant", "awesome", "recommend",
+    ]
+
+    negative_emotions = [
+        # Português
+        "decepção", "decepcionado", "decepcionada", "horrível", "péssimo",
+        "péssima", "terrível", "raiva", "frustrado", "frustrada",
+        "frustração", "lamentável", "vergonha", "ódio", "detestei",
+        "odiei", "pior", "nunca mais", "absurdo", "inadmissível",
+        # Espanhol
+        "decepcionante", "pésimo", "pésima", "fatal", "vergonzoso",
+        "horrible", "terrible", "odio", "nunca más", "desastre",
+        # Francês
+        "décevant", "nul", "catastrophe", "horrible", "déçu", "déçue",
+        "frustrant", "inacceptable", "scandaleux", "honte",
+        # Inglês
+        "terrible", "horrible", "awful", "disappointed", "frustrating",
+        "worst", "useless", "pathetic", "disgusting", "unacceptable",
+        "never again", "waste", "disaster",
+    ]
+
+    # Passo 1 — classifica por esporte
     for category, words in keywords.items():
         if any(word in text_lower for word in words):
             return category
 
-    return None  # Não classificou — vai para o modelo
+    # Passo 2 — se não achou esporte, classifica por emoção
+    for word in positive_emotions:
+        if word in text_lower:
+            return "positive_experience"
 
+    for word in negative_emotions:
+        if word in text_lower:
+            return "negative_experience"
+
+    return None  # Não classificou — vai para o modelo
 
 def classify_with_model(texts: list[str], classifier) -> list[str]:
     """Usa zero-shot classification para textos não classificados por keywords."""
@@ -129,4 +184,6 @@ def run(input_path: str = "data/reviews_real.json",
 if __name__ == "__main__":
     import sys
     use_model = "--model" in sys.argv
-    df = run(use_model=use_model)
+    input_path = "data/reviews_all_sources_analyzed.json"
+    output_path = "data/reviews_all_sources_classified.json"
+    df = run(input_path=input_path, output_path=output_path, use_model=use_model)
