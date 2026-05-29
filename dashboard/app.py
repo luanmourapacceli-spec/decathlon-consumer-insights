@@ -278,11 +278,13 @@ def chart_rating_trend(df):
 
 def render_review_table(df):
     st.markdown('<div class="section-header">Review Explorer</div>', unsafe_allow_html=True)
-    col1, col2 = st.columns([2, 1])
+    col1, col2, col3 = st.columns([2, 1, 1])
     with col1:
         sentiment_filter = st.selectbox("Filter by sentiment", ["All", "negative", "positive", "neutral"])
     with col2:
         sort_by = st.selectbox("Sort by", ["Most Recent", "Lowest Rating", "Highest Rating"])
+    with col3:
+        per_page = st.selectbox("Rows per page", [10, 20, 50, 100], index=1)
 
     filtered = df.copy()
     if sentiment_filter != "All":
@@ -294,7 +296,20 @@ def render_review_table(df):
     else:
         filtered = filtered.sort_values("rating", ascending=False)
 
-    display = filtered[["store_city", "language", "rating", "sentiment_label", "text"]].head(20).copy()
+    total = len(filtered)
+    total_pages = max(1, (total + per_page - 1) // per_page)
+
+    col_info, col_nav = st.columns([3, 1])
+    with col_info:
+        st.markdown(f"<span style='color:#94a3b8;font-size:0.8rem'>{total:,} reviews found</span>", unsafe_allow_html=True)
+    with col_nav:
+        page = st.number_input("Page", min_value=1, max_value=total_pages, value=1, step=1)
+
+    start = (page - 1) * per_page
+    end = start + per_page
+    page_df = filtered.iloc[start:end]
+
+    display = page_df[["store_city", "language", "rating", "sentiment_label", "text"]].copy()
     display.columns = ["Location", "Lang", "Rating", "Sentiment", "Review"]
 
     def color_sentiment(val):
@@ -302,8 +317,7 @@ def render_review_table(df):
         return f"color: {c}; font-weight: 600"
 
     st.dataframe(display.style.map(color_sentiment, subset=["Sentiment"]), use_container_width=True, height=420)
-
-
+    st.markdown(f"<span style='color:#94a3b8;font-size:0.75rem'>Page {page} of {total_pages} | Showing {start+1}-{min(end, total)} of {total:,} reviews</span>", unsafe_allow_html=True)
 def main():
     df_full = load_data()
     if df_full.empty:
