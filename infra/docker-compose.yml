@@ -77,6 +77,27 @@ services:
     networks:
       - infra_net
 
+  mlflow:
+    build:
+      context: .
+      dockerfile: Dockerfile.mlflow
+    container_name: decathlon_mlflow
+    ports:
+      - "5000:5000"
+    command: >
+      mlflow server
+      --host 0.0.0.0
+      --port 5000
+      --backend-store-uri postgresql://postgres:postgres@decathlon_postgres:5432/mlflow
+      --default-artifact-root /mlflow/artifacts
+    volumes:
+      - mlflow_artifacts:/mlflow/artifacts
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - infra_net
+
   airflow-webserver:
     image: apache/airflow:2.9.0
     container_name: decathlon_airflow_web
@@ -174,6 +195,7 @@ services:
 
 volumes:
   postgres_data:
+  mlflow_artifacts:
 
 networks:
   infra_net:
