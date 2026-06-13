@@ -95,11 +95,12 @@ services:
       _AIRFLOW_WWW_USER_CREATE: "true"
       _AIRFLOW_WWW_USER_USERNAME: admin
       _AIRFLOW_WWW_USER_PASSWORD: admin
-      _PIP_ADDITIONAL_REQUIREMENTS: "google-play-scraper textblob langdetect kafka-python psycopg2-binary pandas"
+      _PIP_ADDITIONAL_REQUIREMENTS: "google-play-scraper textblob langdetect kafka-python psycopg2-binary pandas apache-airflow-providers-apache-spark==4.1.0"
     volumes:
       - ../dags:/opt/airflow/dags
       - ../data:/opt/airflow/data
       - ../ml:/opt/airflow/ml
+      - /var/run/docker.sock:/var/run/docker.sock
     ports:
       - "8090:8080"
     command: webserver
@@ -125,12 +126,49 @@ services:
       AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
       AIRFLOW__CORE__LOAD_EXAMPLES: "false"
       _AIRFLOW_DB_MIGRATE: "true"
-      _PIP_ADDITIONAL_REQUIREMENTS: "google-play-scraper textblob langdetect kafka-python psycopg2-binary pandas"
+      _PIP_ADDITIONAL_REQUIREMENTS: "google-play-scraper textblob langdetect kafka-python psycopg2-binary pandas apache-airflow-providers-apache-spark==4.1.0"
     volumes:
       - ../dags:/opt/airflow/dags
       - ../data:/opt/airflow/data
       - ../ml:/opt/airflow/ml
+      - /var/run/docker.sock:/var/run/docker.sock
     command: scheduler
+    networks:
+      - infra_net
+
+  spark:
+    image: apache/spark:3.5.1
+    container_name: decathlon_spark
+    user: root
+    command:
+      ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master"]
+    environment:
+      - SPARK_NO_DAEMONIZE=true
+    ports:
+      - "8282:8080"
+      - "7077:7077"
+    volumes:
+      - ../spark:/opt/spark-jobs
+    networks:
+      - infra_net
+
+  spark-worker:
+    image: apache/spark:3.5.1
+    container_name: decathlon_spark_worker
+    command:
+      [
+        "/opt/spark/bin/spark-class",
+        "org.apache.spark.deploy.worker.Worker",
+        "spark://decathlon_spark:7077",
+      ]
+    environment:
+      - SPARK_NO_DAEMONIZE=true
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+    depends_on:
+      - spark
+    volumes:
+      - ../spark:/opt/spark-jobs
     networks:
       - infra_net
 
